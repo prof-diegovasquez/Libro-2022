@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.6)  16 SEP 2022 22:05
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.6)  16 SEP 2022 22:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1361,6 +1361,17 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \pyy=\skip83
 \pxx=\skip84
 )
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.
+sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen292
+\ar@mcellbox=\box128
+\extrarowheight=\dimen293
+\NC@list=\toks53
+\extratabsurround=\skip85
+\backup@length=\skip86
+\ar@cellbox=\box129
+)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.
 sty
 Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
@@ -1393,7 +1404,7 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 s.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen292
+\@linkdim=\dimen294
 \Hy@linkcounter=\count346
 \Hy@pagecounter=\count347
 
@@ -1432,7 +1443,7 @@ Package hyperref Info: Bookmarks ON on input line 4445.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen293
+\XeTeXLinkMargin=\dimen295
 Requested font "pzdr" at 0.00002pt
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.st
@@ -1445,8 +1456,8 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count350
-\Field@Width=\dimen294
-\Fld@charsize=\dimen295
+\Field@Width=\dimen296
+\Fld@charsize=\dimen297
 Package hyperref Info: Hyper figures OFF on input line 6075.
 Package hyperref Info: Link nesting OFF on input line 6080.
 Package hyperref Info: Hyper index ON on input line 6083.
@@ -1478,7 +1489,7 @@ enc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box128
+\pdfm@box=\box130
 \c@Hy@AnnotLevel=\count354
 \HyField@AnnotCount=\count355
 \Fld@listcount=\count356
@@ -1501,9 +1512,9 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip85
+\Hy@SectionHShift=\skip87
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 29.
+Package hyperref Info: Option `colorlinks' set `true' on input line 30.
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.
 sty
@@ -1531,7 +1542,7 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 \c@solution=\count377
 \c@summary=\count378
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 61.
+(Font)              scaled to size 10.0pt on input line 62.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 10.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
@@ -1542,30 +1553,30 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `"LIBRO 2022.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 61.
+LaTeX Info: Redefining \selectfont on input line 62.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1614,22 +1625,22 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 )
 \c@lstlisting=\count379
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  TU/CambriaMath(1)/m/n --> TU/lmr/m/n on input line 61.
+(Font)                  TU/CambriaMath(1)/m/n --> TU/lmr/m/n on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 61.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 61.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/LinBiolinum(0)/m/n on input line 61
+(Font)                  OT1/cmss/m/n --> TU/LinBiolinum(0)/m/n on input line 62
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/LinBiolinum(0)/bx/n on input line 
-61.
+62.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 61.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 61.
-Package hyperref Info: Link coloring ON on input line 61.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 62.
+Package hyperref Info: Link coloring ON on input line 62.
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.s
 ty
@@ -1645,71 +1656,67 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count380
 )
-LaTeX Info: Redefining \ref on input line 61.
-LaTeX Info: Redefining \pageref on input line 61.
-LaTeX Info: Redefining \nameref on input line 61.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
  (LIBRO 2022.out) (LIBRO 2022.out)
 \@outlinefile=\write5
 \openout5 = `"LIBRO 2022.out"'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 66.
+(Font)              scaled to size 10.0pt on input line 67.
 Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 10.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_RB.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 66.
+(Font)              scaled to size 17.28pt on input line 67.
 Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 17.28pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_RB.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 68.
+(Font)              scaled to size 10.0pt on input line 69.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+smcp;ma
 pping=tex-text;" at 10.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_R.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 68.
+(Font)              scaled to size 14.4pt on input line 69.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+smcp;ma
 pping=tex-text;" at 14.4pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_R.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
-(Font)              scaled to size 24.88pt on input line 70.
+(Font)              scaled to size 24.88pt on input line 71.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+smcp;ma
 pping=tex-text;" at 24.88pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_R.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 72.
+(Font)              scaled to size 10.0pt on input line 73.
 Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 10.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_RI.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 14.4pt on input line 72.
+(Font)              scaled to size 14.4pt on input line 73.
 Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 14.4pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_RI.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 74.
+(Font)              scaled to size 14.4pt on input line 75.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 14.4pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_R.otf
-[1
+ [1
 
 
 ]
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 81.
+(Font)              scaled to size 14.4pt on input line 82.
 Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 14.4pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
@@ -1796,26 +1803,26 @@ Requested font "msbm7" at 6.0pt
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sl' in size <10> not availa
 ble
 (Font)              Font shape `TU/LinBiolinum(0)/m/it' tried instead on input 
-line 83.
+line 84.
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 84.
  [2] [3
 
 ]
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 20.74pt on input line 89.
+(Font)              scaled to size 20.74pt on input line 90.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 20.74pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_R.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 89.
+(Font)              scaled to size 20.74pt on input line 90.
 Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 20.74pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_RB.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 89.
+(Font)              scaled to size 24.88pt on input line 90.
 Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 24.88pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
@@ -1826,26 +1833,26 @@ ertine/LinBiolinum_RB.otf
 ]
 Capítulo 1.
 LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 9
-0.
+1.
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pzc.fd
 File: ot1pzc.fd 2020/03/25 font definitions for OT1/pzc.
 )
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
-(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 90.
+(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 91.
 Requested font "pzcmi7t" at 76.0pt
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 90--90
+Overfull \hbox (10.0pt too wide) in paragraph at lines 91--91
 [][][][][][][][][]  
  []
 
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 125.
+(Font)              scaled to size 7.3pt on input line 126.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 7.3pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_R.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 125.
+(Font)              scaled to size 6.0pt on input line 126.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 6.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
@@ -1884,208 +1891,217 @@ Requested font "msbm5" at 5.0pt
 [4
 
 ]
-LaTeX Info: Redefining \. on input line 159.
-LaTeX Info: Redefining \% on input line 159.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
+(Font)              scaled to size 7.3pt on input line 143.
+Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 7.3pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RI.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
+(Font)              scaled to size 6.0pt on input line 143.
+Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 6.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RI.otf
+LaTeX Info: Redefining \. on input line 158.
+LaTeX Info: Redefining \% on input line 158.
  [5]
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
+ [6]
 Capítulo 2.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 159--159
-[][][][][][][][][]  
- []
-
-[6
-
-]
-Capítulo 3.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 162--162
+Overfull \hbox (10.0pt too wide) in paragraph at lines 164--164
 [][][][][][][][][]  
  []
 
 [7
 
-] [8
+]
+Capítulo 3.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 167--167
+[][][][][][][][][]  
+ []
+
+[8
+
+] [9
 
 ]
 Capítulo 4.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 165--165
+Overfull \hbox (10.0pt too wide) in paragraph at lines 170--170
 [][][][][][][][][]  
  []
 
-[9
+[10
 
 ]
-LaTeX Info: Redefining \. on input line 218.
-LaTeX Info: Redefining \% on input line 218.
- [10]
-Overfull \hbox (0.97717pt too wide) in paragraph at lines 218--218
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
+ [11]
+Overfull \hbox (0.97717pt too wide) in paragraph at lines 223--223
 \TU/LinBiolinum(0)/m/n/10 Ésta cantidad es definida como: \TU/LinBiolinum(0)/m/
 it/10 Unidad Imaginaria \TU/LinBiolinum(0)/m/n/10 y la denominaremos del siguie
 nte modo: $[] []
  []
 
-LaTeX Info: Redefining \. on input line 227.
-LaTeX Info: Redefining \% on input line 227.
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-
- []
-
-LaTeX Info: Redefining \. on input line 261.
-LaTeX Info: Redefining \% on input line 261.
+LaTeX Info: Redefining \. on input line 232.
+LaTeX Info: Redefining \% on input line 232.
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
-
- []
-
-LaTeX Info: Redefining \. on input line 286.
-LaTeX Info: Redefining \% on input line 286.
+LaTeX Info: Redefining \. on input line 266.
+LaTeX Info: Redefining \% on input line 266.
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--330
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
-LaTeX Info: Redefining \. on input line 337.
-LaTeX Info: Redefining \% on input line 337.
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+LaTeX Info: Redefining \. on input line 291.
+LaTeX Info: Redefining \% on input line 291.
 [14]
-LaTeX Info: Redefining \. on input line 355.
-LaTeX Info: Redefining \% on input line 355.
- [15]
-LaTeX Info: Redefining \. on input line 368.
-LaTeX Info: Redefining \% on input line 368.
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--335
+
+ []
+
+LaTeX Info: Redefining \. on input line 342.
+LaTeX Info: Redefining \% on input line 342.
+[15]
+LaTeX Info: Redefining \. on input line 360.
+LaTeX Info: Redefining \% on input line 360.
  [16]
+LaTeX Info: Redefining \. on input line 373.
+LaTeX Info: Redefining \% on input line 373.
+ [17]
 Capítulo 5.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 368--368
-[][][][][][][][][]  
- []
-
-[17
-
-]
-Capítulo 6.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 370--370
+Overfull \hbox (10.0pt too wide) in paragraph at lines 373--373
 [][][][][][][][][]  
  []
 
 [18
 
 ]
-Capítulo 7.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 372--372
-[][][][][][][][][]  
- []
-
-[19
-
-] [20
-
-]
-Capítulo 8.
+Capítulo 6.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 375--375
 [][][][][][][][][]  
  []
 
-[21
+[19
 
 ]
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 7.3pt on input line 407.
-Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
-=tex-text;" at 7.3pt
- -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
-ertine/LinBiolinum_RI.otf
+Capítulo 7.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 377--377
+[][][][][][][][][]  
+ []
+
+[20
+
+] [21
+
+]
+Capítulo 8.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 380--380
+[][][][][][][][][]  
+ []
+
+[22
+
+]
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 407.
+(Font)              scaled to size 8.0pt on input line 412.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 8.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
@@ -2094,75 +2110,69 @@ Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 8.0pt
  -> C:/WINDOWS/Fonts/cambria.ttc
 Requested font "cmmi8" at 8.0pt
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 407.
+(Font)              scaled to size 8.00085pt on input line 412.
 Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 8.00085p
 t
  -> C:/WINDOWS/Fonts/cambria.ttc
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 407.
+(Font)              scaled to size 7.99915pt on input line 412.
 Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 7.99915p
 t
  -> C:/WINDOWS/Fonts/cambria.ttc
 Requested font "msam10" at 8.0pt
 Requested font "msbm10" at 8.0pt
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 407.
-Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
-=tex-text;" at 6.0pt
- -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
-ertine/LinBiolinum_RI.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
  []
 
-LaTeX Info: Redefining \. on input line 428.
-LaTeX Info: Redefining \% on input line 428.
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 430--431
-
- []
-
-LaTeX Info: Redefining \. on input line 461.
-LaTeX Info: Redefining \% on input line 461.
+LaTeX Info: Redefining \. on input line 433.
+LaTeX Info: Redefining \% on input line 433.
 [23]
-LaTeX Info: Redefining \. on input line 495.
-LaTeX Info: Redefining \% on input line 495.
- [24]
-LaTeX Info: Redefining \. on input line 497.
-LaTeX Info: Redefining \% on input line 497.
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+
+ []
+
+LaTeX Info: Redefining \. on input line 466.
+LaTeX Info: Redefining \% on input line 466.
+[24]
+LaTeX Info: Redefining \. on input line 500.
+LaTeX Info: Redefining \% on input line 500.
  [25]
+LaTeX Info: Redefining \. on input line 502.
+LaTeX Info: Redefining \% on input line 502.
+ [26]
 Capítulo 9.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 497--497
-[][][][][][][][][]  
- []
-
-[26
-
-]
-Capítulo 10.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 499--499
+Overfull \hbox (10.0pt too wide) in paragraph at lines 502--502
 [][][][][][][][][]  
  []
 
 [27
+
+]
+Capítulo 10.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 504--504
+[][][][][][][][][]  
+ []
+
+[28
 
 ] (LIBRO 2022.aux
 LaTeX Info: Redefining \. on input line 25.
@@ -2173,16 +2183,16 @@ Package rerunfilecheck Info: File `"LIBRO 2022".out' has not changed.
  )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 36 (\begingroup)
-### semi simple group (level 1) entered at line 34 (\begingroup)
+### semi simple group (level 2) entered at line 37 (\begingroup)
+### semi simple group (level 1) entered at line 35 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 37519 strings out of 411714
- 729319 string characters out of 2835450
- 1193603 words of memory out of 3000000
- 56939 multiletter control sequences out of 15000+600000
+ 37564 strings out of 411714
+ 729809 string characters out of 2835450
+ 1196512 words of memory out of 3000000
+ 56982 multiletter control sequences out of 15000+600000
  413864 words of font info for 106 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,19n,123p,1078b,2210s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 94i,19n,123p,1078b,2212s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIBRO 2022.pdf (29 pages).
+Output written on LIBRO 2022.pdf (30 pages).
