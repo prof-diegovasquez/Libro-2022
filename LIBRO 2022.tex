@@ -1,0 +1,500 @@
+\documentclass[letterpaper, 10pt, oneside]{book}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage[left=3cm,top=2.5cm,right=3cm,bottom=2.5cm]{geometry}
+\usepackage{tikz}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage[final]{pdfpages}
+\usepackage[most]{tcolorbox}
+\usepackage{pgf}
+\usepackage{cancel}
+\usepackage[T1]{fontenc}
+\usepackage[sfdefault]{biolinum}
+\usepackage[Bjornstrup]{fncychap}
+
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	filecolor=black,      
+	urlcolor=black,
+	pdftitle={Contenidos del 2022}
+}
+
+\usepackage{setspace}
+
+\doublespacing
+\onehalfspace
+\singlespace
+\spacing{1.25}
+
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{acknowledgement}{Reconocimiento}
+\newtheorem{algorithm}{Algoritmo}[section]
+\newtheorem{axiom}{Axioma}[section]
+\newtheorem{case}{Caso}[section]
+\newtheorem{claim}{Afirmación}[section]
+\newtheorem{conclusion}{Conclusión}[section]
+\newtheorem{condition}{Condición}[section]
+\newtheorem{conjecture}{Conjetura}[section]
+\newtheorem{corollary}{Corolario}[section]
+\newtheorem{criterion}{Criterio}[section]
+\newtheorem{definition}{Definición}[section]
+\newtheorem{example}{Ejemplo}[section]
+\newtheorem{exercise}{Ejercicio}[section]
+\newtheorem{lemma}{Lema}[section]
+\newtheorem{notation}{Notación}[section]
+\newtheorem{problem}{Problema}[section]
+\newtheorem{proposition}{Proposición}[section]
+\newtheorem{remark}{Observación}[section]
+\newtheorem{solution}{Solución}[section]
+\newtheorem{summary}{Resúmen}[section]
+%----------------------------------------------------------
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	\begin{titlepage}
+		\centering
+		{\bfseries\LARGE Colegio Sagrado Corazón de Jesús \par}
+		\vspace{1cm}
+		{\scshape\Large Tercero Básico \par}
+		\vspace{3cm}
+		{\scshape\Huge Matemática III \par}
+		\vspace{3cm}
+		{\itshape\Large Contenidos del 2022 \par}
+		\vfill
+		{\Large Autor: \par}
+		{\Large Profesor Diego Vásquez \par}
+		\vfill
+		{\Large Septiembre 2022 \par}
+	\end{titlepage}
+	
+	\frontmatter
+	\tableofcontents
+	
+	\chapter{Introducción}
+	\let\cleardoublepage\clearpage
+	
+	\mainmatter
+	\setcounter{page}{3}
+	
+	\part{Segundo Bimestre}
+	\chapter{Fracciones Algebraicas}
+	\section{Introducción}
+	Las fracciones algebraicas o expresiones racionales se trabajan de igual modo a las fracciones aritméticas. Para comenzar nuestro estudio daremos la definición de fracción algebraica.
+	
+	\vspace{5mm}
+	
+	\begin{definition}
+		Sean $A, \ B$ expresiones polinomiales de una o varias variables una fracción algebraica se define como el cociente de estas dos expresiones: 
+		
+		$$\frac{A}{B} \hspace{5mm} \bigg| \hspace{5mm}  B\neq 0$$
+	\end{definition}
+	
+	\section{Propiedades}
+	Vamos a definir propiedades y operaciones con fracciones, cabe mencionar que es importante recordar los métodos de factorización y m.c.m. de expresiones algebraicas. 
+	
+	\subsection{Simplificación de Fracciones}
+	\vspace{5mm}
+	
+	\begin{theorem}
+		Sean $A, \ B, \ C$ expresiones polinomiales de una o varias variables tenemos la siguiente proposición: 
+		
+		$$\frac{AC}{BC} = \frac{A}{B} \hspace{5mm} \bigg| \hspace{5mm} B, C \neq 0$$
+		
+	\end{theorem}
+	
+	\vspace{5mm}
+	
+	\begin{proof}
+		\begin{align*}
+			\frac{AC}{BC} &= (AC)\cdot(BC)^{-1} & 1. \ \text{Por definición de división}\\
+			&=(AC)(B^{-1}C^{-1}) & 2. \ \text{Por teorema $(xy)^{-1} = x^{-1}y^{-1}$}\\
+			&=(AB^{-1})(CC^{-1}) & 3. \ \text{Por axioma conmutativo de la multiplicación}\\
+			&=(AB^{-1})(1) & 4. \ \text{Por axioma de inverso multiplicativo}\\
+			&=AB^{-1} & 5. \ \text{Por neutro multiplicativo}\\
+			&=\frac{A}{B} &6. \ \text{Por definición de división}
+		\end{align*}
+	\end{proof}
+	
+	\subsection*{Ejemplos}
+	
+		\begin{example}
+			Simplificar la fracción: $$\frac{x^2-y^2}{x+y}$$
+			\vspace{1mm}
+			
+			\underline{Solución}
+			
+			\begin{align*}
+				\frac{x^2-y^2}{x+y} & = \frac{(x+y)(x-y)}{x+y} & (1)\\
+				&=\frac{(x+y)(x-y)}{x+y} \hspace{3mm} & (2)\\
+				&=\frac{\cancel{(x+y)}(x-y)}{\cancel{x+y}} & (3)\\
+				&=\frac{x-y}{1} \hspace{3mm} & (4)\\
+				&= \fbox{\color{blue}{$x-y$}} & (5)
+			\end{align*}
+			
+			\begin{enumerate}
+				\item Factorizar el numerador completamente
+				\item Reescribir la fracción
+				\item Utilizar el Teorema de Simplificación si, y solo si $x\neq -y$
+				\item Reescribir la fracción
+				\item Solución
+			\end{enumerate}
+		\end{example}
+	
+		\begin{example}
+			Simplificar la fracción: $$\frac{2x^3-2x}{4x^4-8x^3-12x^2}$$
+		\end{example}
+	\subsection{Operaciones con Fracciones}
+	
+	%-------------------------------------
+	\chapter{Ecuaciones Lineales}
+	
+	%-------------------------------------
+	\chapter{Sistemas de Ecuaciones Lineales}
+	%-------------------------------------
+	\part{Tercer Bimestre}
+	\chapter{Ecuaciones Cuadráticas}
+	\section{Definición}
+	Sea un polinomio de grado $2$ con variable real ($\displaystyle{\mathbb{R}}$), la cual es $x$ tenemos: 
+	
+	$$P(x)=c_2x^2+c_1x+c_0$$
+	
+	Tal que los coeficientes $\displaystyle{c_2, \ c_1, \ c_0 \in \mathbb{R}}$, pertenecen a los números reales y son constantes, donde $c_2 \neq 0$. Los llamaremos ahora $c_2 = a, \ c_1 = b, \ c_0 = c$, el polinomio queda reescrito del siguiente modo:
+	
+	$$P(x)=ax^2+bx+c, \ a \neq 0$$
+	
+	Igualar a cero (0) dicho polinomio tendrá por objetivo obtener las raíces o soluciones de una ecuación de segundo grado o cuadrática. Por lo tanto, el polinomio igualado a cero tal como se muestra a continuación: 
+	
+	$$ax^2+bx+c=0, \ a \neq 0$$
+	
+	Es el modelo estándar, forma canónica o    general de una ecuación cuadrática o de segundo grado. 
+	
+	\section{Conceptos Fundamentales}
+	Una vez definida la ecuación cuadrática o de segundo grado continuaremos con los diferentes métodos de solución y las condiciones a cumplir, las ecuaciones cuadráticas tendrán soluciones en los dos grandes campos numéricos trabajados en álgebra, los números reales y complejos, haciendo hincapié en las soluciones con números racionales como subconjunto de los reales derivadas de una solución por factorización. 
+	
+	\subsection{Condiciones}
+	La forma canónica de una ecuación cuadrática constituye un polinomio de grado dos también conocido como trinomio, en conformidad con nuestro aprendizaje de los casos para factorización de polinomios con coeficientes racionales podemos resolver algunas ecuaciones cuadráticas aplicando dichos métodos o casos. 
+	
+	Tenemos la ecuación canónica: 
+	
+	$$ax^2+bx+c=0, \ a \neq 0$$
+	
+	Si el polinomio es factorizable con números racionales entonces podemos aplicar los casos de factorización para trinomios:
+	
+	\begin{enumerate}
+		\item Trinomio Cuadrado Perfecto
+		\begin{enumerate}
+			\item Sí $a$ y $c$ son cuadrados perfectos y $b=2\cdot{ac}$ entonces podemos expresarlo como: 
+			
+			$$ax^2+bx+c=(mx+n)^2 \ | \ m=\sqrt{a},  \ n =\sqrt{c}, \ 2\cdot{mn} = b$$
+		\end{enumerate}
+		\item Trinomios factorizables con números racionales:
+		\begin{enumerate}
+			\item Sí $a = 1$ entonces canónicamente queda escrita como: $$x^2+bx+c=0$$ Por lo tanto podemos aplicar la identidad notable de factorización $$x^2+(n+m)x+nm=(x+n)(x+m) \ | \ n+m=b, \ nm = c$$
+			
+			\item Sí $|a|>1, a\neq 0$, en otras palabras cuando $a$ es cualquier número real distinto de $1$. Se aplica el caso de factorización para trinomios de la forma: $ax^2+bx+c$.
+		\end{enumerate}
+		
+		\item Sí $b=0$ entonces la ecuación cuadrática queda del modo: $ax^2+0x+c=0$ o reescrita de otro modo: $ax^2+c=0$, tenemos las siguientes condiciones:
+		
+		\begin{enumerate}
+			\item Sí $a$ es un cuadrado perfecto, es decir, $m\cdot{m} = a$ y $c < 0$ y a su vez es un cuadrado perfecto, es decir, $n\cdot{n} = c$, la ecuación quedaría reescrita como: $ax^2+(-c)=0$ o bien directamente: $ax^2-c=0$, podemos aplicar la diferencia de cuadrados para binomios con cuadrados perfectos y racionales: $x^2-y^2=(x+y)(x-y)$, por lo tanto, dicha ecuación quedaría como: $$ax^2-c=(mx+n)(mx-n) \ | \ m^2=a, \ n^2 = c$$
+			
+			Así mismo sí $a=1$ y $c<0$ y es cuadrado perfecto, tal que, $n^2=c$, es decir, $n=\sqrt{c}$, es aplicable la diferencia de cuadrados también: 
+			
+			$$x^2-c=(x+n)(x-n)$$
+			
+			\item Sí $a$ no es un cuadrado perfecto lo cual implicará $\sqrt{m}\cdot{\sqrt{m}}=a \ | \ m = a, \ m > 0$ y sí $c<0$, no obstante, no es un cuadrado perfecto, lo cual implica $\sqrt{n}\cdot{\sqrt{n}}=c \ | \ n = c, \ n > 0$, podemos hacer una extensión del caso de factorización de diferencia de cuadrados en el campo numérico de los reales, por lo tanto, la ecuación quedará expresada del siguiente modo: $$ax^2-c=\left(\sqrt{m}x+\sqrt{n}\right)\left(\sqrt{m}x-\sqrt{n}\right)$$
+			
+			\item Sí $a$ y $c$ son cuadrados perfectos, sin embargo, $c>0$, lo cual implica una forma: $$ax^2+c=0$$ Podemos ampliar la factorización de diferencia de cuadrados perfectos al campo numérico de los números complejos, analicemos por qué. Sí hacemos transposición de términos con $c$ y lo restamos en ambos lados de la igualdad obtenemos una expresión: $$ax^2=-c$$ Una vez más transponemos términos con $a$ dividiéndolo en ambos lados y quedará: $$x^2=\frac{-c}{a}$$ Asumamos $a = 1$, entonces queda: $$x^2=-c$$ No existe en el campo de los números reales tal valor el cual al elevarlo a potencias pares resulte en un número negativo, asumamos $c=1$, por tanto nos queda: $$x^2=-1$$ Por la definición de raíz enésima, tenemos que: $$x=\sqrt{-1}$$ Ésta cantidad es definida como: \textit{Unidad Imaginaria} y la denominaremos del siguiente modo: $\sqrt{-1}=i$. Sí $a$ y $c$ son cuadrados perfectos de modo que: $m\cdot{m}=a$ y $n\cdot{n}=c$ la factorización con números complejos quedará como: $$ax^2+c=(mx+ni)(mx-ni)$$
+			
+			Sí $a$ y $c$ son cuadrados imperfectos, entonces la factorización con números complejos quedará como: $$ax^2+c=\left(\sqrt{m}x+\sqrt{n}i\right)\left(\sqrt{m}x-\sqrt{n}i\right)$$
+		\end{enumerate}
+		\item Finalmente sí $c=0$ la forma canónica queda reescrita como: $$ax^2+bx=0$$ Acá el único factor común será $x$ por tanto queda reescrita como: $$ax^2+bx=x\cdot(ax+b)$$
+	\end{enumerate}
+	
+	\subsection{Propiedad del Factor Cero}
+	Hemos notado en las condiciones de las expresiones algebraicas, específicamente, los posibles polinomios que representarán ecuaciones cuadráticas en sus factorizaciones quedan dos factores lineales sean estos con coeficientes racionales, reales o complejos, tendremos a bien tomar en cuenta una propiedad básica previamente a utilizar métodos de solución para ecuaciones cuadráticas.
+	
+	\begin{tcolorbox}[title=Propiedad del Factor Cero]
+		Sean $p$ y $q$ dos expresiones algebraicas, específicamente, dos factores lineales de una expresión cuadrática factorizada, tenemos la siguiente afirmación: 
+		
+		$$p\cdot q = 0$$
+		
+		Esto es válido sí y solo sí $p=0$ o $q=0$.
+	\end{tcolorbox}
+	
+	\vspace{5mm}
+	
+	Ejemplo: Suponemos la factorización de la forma canónica: $ax^2+bx+c=0$ como un producto de factores lineales del tipo: $(kx+l)(mx+n)=0$ y la cual tendrá soluciones reales, entonces aplicando el factor cero quedará del siguiente modo:
+	
+	$$(kx+l)=0, \hspace{5mm} (mx+n)=0$$
+	
+	$$kx+l=0, \hspace{5mm} mx+n=0$$
+	
+	$$x=-\frac{l}{k}, \hspace{5mm} x=-\frac{n}{m} \hspace{2mm} \big| \hspace{2mm}  k, m \neq 0$$
+	
+	\subsection{Completar Cuadrados}
+	
+	Sí tenemos una expresión cuadrática del tipo: $x^2+kx=0 \ | \ k \in \mathbb{R}$ o $x^2-kx=0 \ | \ k \in \mathbb{R}$, podemos utilizar una técnica que será práctica al momento de resolver ecuaciones cuadráticas.\newline
+	
+	Sabemos por la identidad notable: $(x+y)^2=x^2+2xy+y^2$ y notamos que el término $y$ el cuál es faltante en la forma $x^2\pm kx=0$ puede ser calculado con base de la identidad notable para completar el cuadrado perfecto del siguiente modo:\newline
+	
+	$$2xy = kx$$
+	
+	$$y=\frac{kx}{2x}$$
+	
+	$$y=\frac{k}{2}$$
+	
+	$$y^2=\left(\frac{k}{2}\right)^2$$\newline
+	
+	La cantidad obtenida será sumada en ambos lados de la igualdad a fin de no alterar a la ecuación, para nosotros será un cero simbólico:\newline
+	
+	$$x^2\pm kx+{\color{blue}\left(\frac{k}{2}\right)^2}=0+{\color{blue}\left(\frac{k}{2}\right)^2}$$\newline
+	
+	Tenemos un trinomio cuadrado perfecto tal que su factorización quedará del modo:\newline
+	
+	$$\left(x\pm \frac{k}{2}\right)^2$$
+	
+	Ésta factorización la podemos verificar expandiendo:\newline
+	
+	$$\left(x\pm \frac{k}{2}\right)^2 = x^2\pm2\cdot \left(\frac{kx}{2}\right) + \left(\frac{k}{2}\right)^2 = x^2 \pm kx + \left(\frac{k}{2}\right)^2$$\newline
+	
+	La ecuación queda reescrita como:\newline
+	
+	$$\left(x\pm \frac{k}{2}\right)^2=\left(\frac{k}{2}\right)^2$$\newline
+	
+	Finalmente hacemos una diferencia de cuadrados con números racionales:\newline
+	
+	$$\left(x\pm \frac{k}{2}\right)^2-\left(\frac{k}{2}\right)^2=0$$\newline
+	
+	Por propiedad del factor cero:\newline
+	
+	$$\left(x\pm \frac{k}{2}+\frac{k}{2}\right)\cdot \left(x\pm \frac{k}{2}-\frac{k}{2}\right)=0$$\newline
+	
+	Se deja al lector encontrar la solución a dicha ecuación. ¿Qué sucede si un número real distinto de 1 y 0 está multiplicando al monomio cuadrático? Por ejemplo:
+	
+	$$ax^2 \pm kx = 0$$\newline
+	
+	Vamos a tomar el coeficiente del monomio cuadrático y lo vamos a dividir en ambos lados de la ecuación: \newline 
+	
+	$$\frac{ax^2 \pm kx}{a} = \frac{0}{a}$$
+	
+	$$\frac{ax^2}{a} \pm \frac{k}{a}x +  = \frac{0}{a}$$
+	
+	$$x^2 \pm \frac{k}{a} = 0$$
+	
+	Multiplicando por $\displaystyle{\frac{1}{2}}$ el coeficiente lineal, sin tomar en cuenta el signo. \newline
+	
+	$$\frac{1}{2}\cdot \frac{k}{a} = \frac{k}{2a}$$
+	
+	Luego dicha cantidad la elevaremos al cuadrado y sumaremos en ambos lados de la igualdad.\newline
+	
+	$$x^2 \pm \frac{k}{a} + \left(\frac{k}{2a}\right)^2 = 0 + \left(\frac{k}{2a}\right)^2$$
+	
+	$$\left(x \pm \frac{k}{2a}\right)^2=\left(\frac{k}{2a}\right)^2$$\newline
+	
+	Se deja al lector encontrar la solución a dicha ecuación.
+	
+	\section{Ejemplos de Ecuaciones Cuadráticas}
+	
+	\subsection{Ecuaciones Resueltas por Factorización}
+	\begin{enumerate}
+		\item Resolver la ecuación: $x^2+5x+6=0$ por factorización.
+		
+		\begin{tcolorbox}[title=Solución, colback=white]
+			$x^2+5x+6=0$\newline
+			Utilizamos la identidad notable: $(x+a)(x+b)=x^2+(a+b)x+ab$\newline
+			$(x+3)(x+2)=0$\newline
+			Propiedad del Factor Cero\newline
+			$(x+3)=0 \hspace{5mm} (x+2)=0$\newline
+			$x+3=0 \hspace{5mm} x+2=0$\newline
+			$x=-3 \hspace{5mm} x=-2$
+			
+			\vspace{10mm}
+			\textbf{Verificación:}\newline
+			Sustituir $x=-2$ en la ecuación original:\newline
+			$(-2)^2+5(-2)+6 \overset{?}{=}0$\newline
+			$4-10+6 \overset{?}{=} 0$\newline
+			$-6+6\overset{?}{=}0$\newline
+			$0=0$\newline
+			
+			Sustituir $x=-3$ en la ecuación original:\newline
+			$(-3)^2+5(-3)+6 \overset{?}{=}0$\newline
+			$9-15+6 \overset{?}{=} 0$\newline
+			$-6+6\overset{?}{=}0$\newline
+			$0=0$
+		\end{tcolorbox}
+		\item Resolver la ecuación: $4x^2-9=0$ por factorización. 
+		
+		\begin{tcolorbox}[title=Solución, colback=white]
+			$4x^2-9=0$\newline
+			Utilizamos la factorización de diferencia de cuadrados perfectos en números racionales.\newline 
+			$(2x-3)(2x+3)=0$\newline
+			Propiedad del Factor Cero\newline
+			$(2x-3)=0 \hspace{5mm} (2x+3)=0$\newline
+			$2x-3=0 \hspace{5mm} 2x+3=0$\newline
+			$2x=3 \hspace{5mm} 2x=-3$\newline
+			$\displaystyle{x=\frac{3}{2} \hspace{5mm} x=-\frac{3}{2}}$
+		\end{tcolorbox}
+	\end{enumerate}
+	\section{Fórmula General de Segundo Grado}
+	\subsection{Demostración}
+	
+	Tenemos la ecuación cuadrática en forma canónica como:
+	
+	$$ax^2+bx+c=0$$
+	
+	Sean los coeficientes $a,b,c \in \mathbb{R}$, $a\neq0$ vamos a utilizar el método de completar cuadrados para obtener una ecuación general que nos permita obtener tanto soluciones reales como complejas de las ecuaciones de segundo grado. 
+	
+	\begin{align*}
+		\frac{(ax^2+bx+c)}{a}=\frac{0}{a}\\ \\
+		\frac{(ax^2)}{a}+\frac{b}{a} x+\frac{c}{a}=\frac{0}{a}\\ \\
+		x^2+\frac{b}{a}x+\frac{c}{a}=0\\ \\
+		x^2+\frac{b}{a}x=-\frac{c}{a}\\ \\
+		\left(\frac{1}{2}\cdot \frac{b}{a}\right)^2=\left(\frac{b}{2a}\right)^2\\ \\
+		x^2+\frac{b}{a}x+\left(\frac{b}{2a}\right)^2=-\frac{c}{a}+\left(\frac{b}{2a}\right)^2
+	\end{align*}
+	%-------------------------------------
+	\chapter{Inecuaciones}
+	%-------------------------------------
+	\chapter{Funciones}
+	%-------------------------------------
+	\chapter{Funciones Lineales}
+	%-------------------------------------
+	\part{Cuarto Bimestre}
+	\chapter{Función Cuadrática}
+	\section{Definición}
+	\begin{tcolorbox}[colback=white]
+		Una función cuadrática $y=f(x)$ es escrita en su \textbf{forma estándar o polinomial} como: $$f(x)=ax^2+bx+c$$ donde $a\neq0$, $a,b,c\in\mathbb{R}$. Es una función polinomial de grado 2.
+	\end{tcolorbox}
+	
+	\section{Forma Normal}
+	
+	Sea la función cuadrática $f(x)=ax^2+bx+c$ en su forma estándar, para obtener su \textbf{forma normal}	vamos a reescribir la función $f(x)$ del siguiente modo:
+	$$f(x)=a\bigg(\frac{ax^2}{a}+\frac{bx}{a}\bigg)+c \rightarrow f(x)= a\bigg(x^2+\frac{b}{a}x\bigg)+c$$
+	
+	Vamos a tomar el coeficiente $\displaystyle{\frac{b}{a}}$ y vamos a completar cuadrados $\displaystyle{\bigg(\frac{b}{a}\cdot\frac{1}{2}\bigg)^2 = \bigg(\frac{b}{2a}\bigg)^2}$ y, finalmente, dicha cantidad la sumaremos y restaremos  dentro del paréntesis:
+	
+	$$f(x)=a\left(x^2+\frac{b}{a}x+\bigg(\frac{b}{2a}\bigg)^2-\bigg(\frac{b}{2a}\bigg)^2\right)+c$$
+	
+	Podemos reescribir como:
+	
+	$$f(x)=a\left(x^2+\frac{b}{a}x+\bigg(\frac{b}{2a}\bigg)^2\right)+c-a\bigg(\frac{b}{2a}\bigg)^2$$
+	
+	Aplicamos factorización y desarrollamos la otra expresión, con lo que obtenemos: 
+	
+	$$f(x)=a\left(x+\frac{b}{2a}\right)^2+c-a\bigg(\frac{b^2}{4a^2}\bigg)$$
+	
+	Y finalmente, la \textbf{forma normal} de una función cuadrática queda como: 
+	
+	\begin{tcolorbox}[colback=white]
+		$$f(x)=a\left(x+\frac{b}{2a}\right)^2+c-\frac{b^2}{4a}$$
+	\end{tcolorbox}
+	
+	\subsection{Vértice}
+	
+	\begin{tcolorbox}[title=Teorema, colback=white]
+		El vértice de una función cuadrática es una coordenada que indica el punto máximo o mínimo de la función\footnote{La demostración de este teorema implica saberes de cálculo diferencial, por tanto, no se demostrará.}, y está dado por: $$x_v = -\frac{b}{2a}, \hspace{5mm} y_v = f\bigg(-\frac{b}{2a}\bigg)$$ y en forma de punto queda escrito como: $$V\left(-\frac{b}{2a}, \ f\left(-\frac{b}{2a}\right)\right)$$
+	\end{tcolorbox}
+	
+	El vértice también puede reescribirse como: 
+	$$V\left(-\frac{b}{2a}, \ c-\frac{b^2}{4a}\right)$$
+	
+	Esto sale de evaluar la función en el punto $\displaystyle{x=-\frac{b}{2a}}$ y tenemos que: 
+	
+	$$f\left(-\frac{b}{2a}\right) = \left(-\frac{b}{2a}+\frac{b}{2a}\right)^2+c-\frac{b^2}{4a}$$
+	$$f\left(-\frac{b}{2a}\right) = \cancelto{0}{\left(-\frac{b}{2a}+\frac{b}{2a}\right)^2}+c-\frac{b^2}{4a} \rightarrow f\left(-\frac{b}{2a}\right) = c-\frac{b^2}{4a}$$
+	
+	\subsection{Forma Canónica}
+	
+	Tomemos dos variables cualquiera, las cuales serán $h$ y $k$, las igualaremos con la coordenada $x$ y $y$ del vértice, respectivamente, de modo que $h=x_v$ y $k=y_v$ y obtendremos:\newline 
+	
+	$$V(h, k)$$
+	
+	Donde $\displaystyle{h=-\frac{b}{2a}}$ y $\displaystyle{k=f\left(-\frac{b}{2a}\right) = c-\frac{b^2}{4a}}$.\newline
+	
+	Con base en estas variables que hemos escogido podemos reescribir la \textbf{forma normal} y obtener la \textbf{forma canónica} del siguiente modo:\newline
+	
+	$$f(x)=a\left(x-\left(-\frac{b}{2a}\right)\right)^2+c-\frac{b^2}{4a}$$\newline
+	
+	Sabiendo que $\displaystyle{h=-\frac{b}{2a}}$ y $\displaystyle{k=f\left(-\frac{b}{2a}\right) = c-\frac{b^2}{4a}}$, entonces queda reescrita como:\newline
+	
+	\begin{tcolorbox}[colback=white]
+		$$f(x)=a\left(x-h\right)^2+k$$
+	\end{tcolorbox}
+	
+	\section{Dominio y Rango}
+	
+	\begin{itemize}
+		\item \textbf{Dominio}: el dominio de una función cuadrática -- al igual que todas las funciones polinomiales -- es todo el conjunto de números reales, y podemos escribirlo como: $\text{Dom}f = \{x\ \big| \ x \in \mathbb{R}\}$, o bien, $\text{Dom}f = (-\infty, \infty)$. Incluso puede escribirse como $\text{Dom}f = \mathbb{R}$. 
+		
+		\item \textbf{Rango}: el rango de una función cuadrática dependerá del signo del coeficiente principal $a$, este coeficiente acompaña al término cuadrático $x^2$, o en la forma normal es: $a(x-h)^2$. 
+		
+		Veamos los dos posibles casos:
+		
+		\begin{itemize}
+			\item Si $a>0$ se tiene una \textbf{concavidad hacia arriba}, y el rango de dicha función será tomado desde la coordenada $y$ del vértice ($y_v$) en adelante: $$\text{Rang}f = \left[y_v, \ \infty\right.)$$
+			
+			En otros términos será:
+			
+			$$\text{Rang}f = \left[c-\frac{b^2}{4a}, \ \infty\right.\bigg)$$ O bien:
+			
+			$$\text{Rang}f = \left[k, \ \infty\right.)$$
+			
+			
+			\item Si $a<0$ se tiene una \textbf{concavidad hacia abajo}, y el rango de dicha función será tomado desde todos los números negativos hasta la coordenada $y$ del vértice ($y_v$), es decir $$\text{Rang}f = \left.(-\infty, \ y_v\right]$$
+			
+			En otros términos será:
+			
+			$$\text{Rang}f = \left.\bigg(-\infty, \ c-\frac{b^2}{4a}\right]$$ O bien:
+			
+			$$\text{Rang}f = \left.(-\infty, \ k\right]$$
+		\end{itemize}
+	\end{itemize}
+	
+	\section{Ejemplos}
+	
+	\begin{enumerate}
+		\item Transforme la siguiente función cuadrática en su \textbf{forma normal} e indique su \textbf{vértice}: $$f(x)=2x^2-16x+26$$\newline
+		La fórmula para transformar a forma normal es: $$f(x)=a\left(x+\frac{b}{2a}\right)^2+c-\frac{b^2}{4a}$$ Donde $a=2, \ b=-16, \ c=26$. Sustituyendo obtenemos:
+		
+		$$f(x)=2\left(x+\frac{-16}{2(2)}\right)^2+(26)-\frac{(-16)^2}{4(2)}$$
+		
+		Haciendo la aritmética correspondiente:
+		
+		$$f(x)=2\left(x-4\right)^2+26-32 \ \rightarrow \ f(x)=2(x-4)^2-6$$
+		
+		La forma normal es:
+		\begin{tcolorbox}[colback=white]
+			$$f(x)=2(x-4)^2-6$$
+		\end{tcolorbox}
+		
+		Tenemos dos caminos para encontrar el vértice, la primera forma es utilizar $\displaystyle{V\left(-\frac{b}{2a}, \ f\left(-\frac{b}{2a}\right)\right)}$, sabiendo que $b=-16$ y $a=2$. De este modo obtenemos
+		
+		$$x=-\frac{-16}{2(2)}\ \rightarrow x=4$$ y ahora evaluamos este valor de $x$ en la función, puede ser en la forma estándar o en la normal, debe dar el mismo resultado.
+		
+		$$f(4)=\cancelto{0}{2(4-4)^2}-6 = -6$$
+		
+		Hemos obtenido las coordenadas $x$, $y$ del vértice, por lo cual, el vértice es
+		
+		\begin{tcolorbox}
+			$$V(4, -6)$$
+		\end{tcolorbox}
+		
+		Otra manera de encontrar el vértice es a partir de la forma normal, como sabemos, esta tiene la forma $f(x)=a(x-h)^2+k$ y el vértice viene dado por $V(h, k)$, por lo tanto, para obtener $h$ vamos a cambiar de signo, si este es positivo será negativo y viceversa. En este ejemplo tenemos $f(x)=2(x-4)^2-6$, entonces $-h=-4$, entonces $h=4$ y $k=-6$. Por lo que el vértice es: $V(4, -6)$.
+	\end{enumerate}
+	%-------------------------------------
+	\chapter{Ángulos}
+	%-------------------------------------
+	\chapter{Triángulos}
+	%-------------------------------------
+	
+\end{document}
