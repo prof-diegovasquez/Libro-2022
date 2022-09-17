@@ -1,10 +1,10 @@
-\documentclass[letterpaper, 10pt, oneside]{book}
+\documentclass[A4paper, 10pt, oneside]{book}
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
 \usepackage{graphicx}
 \usepackage{ragged2e}
-\usepackage[left=3cm,top=2.5cm,right=3cm,bottom=2.5cm]{geometry}
+%\usepackage[left=3cm,top=2.5cm,right=3cm,bottom=2.5cm]{geometry}
 \usepackage{tikz}
 \usepackage{longtable}
 \usepackage{float}
@@ -15,8 +15,7 @@
 \usepackage{cancel}
 \usepackage[T1]{fontenc}
 \usepackage[sfdefault]{biolinum}
-\usepackage{unicode-math}
-\setmathfont{Cambria Math}
+\usepackage{mathpazo}
 \usepackage[Bjornstrup]{fncychap}
 \usepackage{array}
 
@@ -36,27 +35,27 @@
 \singlespace
 \spacing{1.25}
 
-\newtheorem{theorem}{Teorema}[section]
+\newtheorem{theorem}{Teorema}[chapter]
 \newtheorem{acknowledgement}{Reconocimiento}
-\newtheorem{algorithm}{Algoritmo}[section]
-\newtheorem{axiom}{Axioma}[section]
-\newtheorem{case}{Caso}[section]
-\newtheorem{claim}{Afirmación}[section]
-\newtheorem{conclusion}{Conclusión}[section]
-\newtheorem{condition}{Condición}[section]
-\newtheorem{conjecture}{Conjetura}[section]
-\newtheorem{corollary}{Corolario}[section]
-\newtheorem{criterion}{Criterio}[section]
-\newtheorem{definition}{Definición}[section]
-\newtheorem{example}{Ejemplo}[section]
-\newtheorem{exercise}{Ejercicio}[section]
-\newtheorem{lemma}{Lema}[section]
-\newtheorem{notation}{Notación}[section]
-\newtheorem{problem}{Problema}[section]
-\newtheorem{proposition}{Proposición}[section]
-\newtheorem{remark}{Observación}[section]
-\newtheorem{solution}{Solución}[section]
-\newtheorem{summary}{Resúmen}[section]
+\newtheorem{algorithm}{Algoritmo}[chapter]
+\newtheorem{axiom}{Axioma}[chapter]
+\newtheorem{case}{Caso}[chapter]
+\newtheorem{claim}{Afirmación}[chapter]
+\newtheorem{conclusion}{Conclusión}[chapter]
+\newtheorem{condition}{Condición}[chapter]
+\newtheorem{conjecture}{Conjetura}[chapter]
+\newtheorem{corollary}{Corolario}[chapter]
+\newtheorem{criterion}{Criterio}[chapter]
+\newtheorem{definition}{Definición}[chapter]
+\newtheorem{example}{Ejemplo}[chapter]
+\newtheorem{exercise}{Ejercicio}[chapter]
+\newtheorem{lemma}{Lema}[chapter]
+\newtheorem{notation}{Notación}[chapter]
+\newtheorem{problem}{Problema}[chapter]
+\newtheorem{proposition}{Proposición}[chapter]
+\newtheorem{remark}{Observación}[chapter]
+\newtheorem{solution}{Solución}[chapter]
+\newtheorem{summary}{Resúmen}[chapter]
 %----------------------------------------------------------
 
 \begin{document}
@@ -97,7 +96,7 @@
 	\begin{definition}
 		Sean $A, \ B$ expresiones polinomiales de una o varias variables una fracción algebraica se define como el cociente de estas dos expresiones: 
 		
-		$$\frac{A}{B} \hspace{5mm} \bigg| \hspace{5mm}  B\neq 0$$
+		$$\frac{A}{B} \hspace{5mm} \big| \hspace{5mm}  B\neq 0$$
 	\end{definition}
 	
 	\section{Propiedades}
@@ -106,9 +105,10 @@
 	\subsection{Simplificación de Fracciones}
 	
 	\begin{theorem}
+		\label{TeoSimpF}
 		Sean $A, \ B, \ C$ expresiones polinomiales de una o varias variables tenemos la siguiente proposición: 
 		
-		$$\frac{AC}{BC} = \frac{A}{B} \hspace{5mm} \bigg| \hspace{5mm} B, C \neq 0$$
+		$$\frac{AC}{BC} = \frac{A}{B} \hspace{5mm} \big| \hspace{5mm} B, C \neq 0$$
 		
 	\end{theorem}
 
@@ -132,7 +132,7 @@
 			\begin{align*}
 				\frac{x^2-y^2}{x+y} & = \frac{(x+y)(x-y)}{x+y} & \text{Factorizar el numerador completamente}\\
 				&=\frac{(x+y)(x-y)}{x+y}  & \text{Reescribir la fracción}\\
-				&=\frac{\cancel{(x+y)}(x-y)}{\cancel{x+y}} & \text{Utilizar el Teorema de Simplificación si, y solo si $x\neq -y$}\\
+				&=\frac{\cancel{(x+y)}(x-y)}{\cancel{x+y}} & \text{Utilizar el Teorema de Simplificación si $x\neq -y$}\\
 				&=\frac{x-y}{1}  & \text{Reescribir la fracción}\\
 				&= \fbox{\color{blue}{$x-y$}} & \text{Solución}
 			\end{align*}
@@ -143,11 +143,11 @@
 			\underline{Solución}
 			
 			\begin{align*}
-				\frac{2x^3-2x}{4x^4-8x^3-12x^2} & = \frac{2x(x^2-1)}{4x^2(x^2-2x-3)} & \text{Factorizar el numerador y denominador completamente}\\
+				\frac{2x^3-2x}{4x^4-8x^3-12x^2} & = \frac{2x(x^2-1)}{4x^2(x^2-2x-3)}\\
 				& = \frac{2x(x-1)(x+1)}{(2x)(2x)(x-3)(x+1)}\\
-				&=\frac{\cancel{2x}(x-1)(\cancel{x+1})}{(\cancel{2x})(2x)(x-3)(\cancel{x+1})}  & \text{Utilizar el Teorema de Simplificación $\Longleftrightarrow x\neq 0, \ x\neq -1$}\\
-				&= \frac{x-1}{2x(x-3)} & \text{Reescribir la fracción}\\
-				&= \fbox{\color{blue}{$\displaystyle{\frac{x-1}{2x(x-3)}}$}} & \text{Solución}
+				&=\frac{\cancel{2x}(x-1)(\cancel{x+1})}{(\cancel{2x})(2x)(x-3)(\cancel{x+1})} \hspace{5mm} \big| \ \hspace{5mm} x\neq 0, \ x\neq -1\\
+				&= \frac{x-1}{2x(x-3)}\\
+				&= \fbox{\color{blue}{$\displaystyle{\frac{x-1}{2x(x-3)}}$}}
 			\end{align*}
 		\end{example}
 	
@@ -167,11 +167,77 @@
 		\begin{example}
 			Simplificar: $$\frac{a^5-a^4c-ab^4+b^4c}{a^4-a^3c-a^2b^2+ab^2c}$$
 			\underline{Solución}:
+			\begin{align*}
+				\frac{a^5-a^4c-ab^4+b^4c}{a^4-a^3c-a^2b^2+ab^2c} &= \frac{(a^5-a^4c)+(-ab^4+b^4c)}{(a^4-a^3c)+(a^2b^2+ab^2c)}\\
+				&=\frac{a^4(a-c)+b^4(-a+c)}{a^3(a-c)+ab^2(-a+c)}\\
+				&=\frac{a^4(a-c)-b^4(a-c)}{a^3(a-c)-ab^2(a-c)}\\
+				&=\frac{(a-c)(a^4-b^4)}{(a^3-ab^2)(a-c)}\\
+				&=\frac{(a-c)(a^2-b^2)(a^2+b^2)}{a(a^2-b^2)(a-c)}\\
+				&=\frac{(\cancel{a-c})(\cancel{a^2-b^2})(a^2+b^2)}{a(\cancel{a^2-b^2})(\cancel{a-c})} \hspace{5mm} \big| \hspace{5mm} a\neq c, \ a\neq b, \ a\neq -b\\
+				&=\fbox{\color{blue}{$\displaystyle{\frac{a^2+b^2}{a}}$}}
+			\end{align*}
 		\end{example}
 	
 		\subsection*{Ejercicios}
+		
+		\begin{multicols}{2}
+			\begin{exercise}
+				Simplificar la fracción:
+				$$\frac{x^2-y^2}{x^3+y^3}$$
+			\end{exercise}
+			\begin{exercise}
+				Simplificar la fracción:
+				$$\frac{a^2+ab}{a^2-b^2}$$
+			\end{exercise}
+			\begin{exercise}
+				Simplificar la fracción:
+				$$\frac{m^3n+3m^2n+9mn}{m^3-27}$$
+			\end{exercise}
+			\begin{exercise}
+				Simplificar la fracción:
+				$$\frac{(a+b)^2-(c-d)^2}{(a+b)^2-(b-d)^2}$$
+			\end{exercise}
+		\end{multicols}
 	
 	\subsection{Operaciones con Fracciones}
+	
+	\begin{theorem}
+		\label{TeoMultF}
+		Sean $A, \ B, \ C, \ D$ expresiones polinomiales de una o varias variables tenemos la siguiente proposición: 
+		
+		$$\frac{A}{B}\cdot \frac{C}{D} = \frac{AC}{BD} \hspace{5mm} \big| \hspace{5mm} B, D \neq 0$$
+	\end{theorem}
+
+	\begin{proof}
+		\begin{align*}
+			\frac{A}{B}\cdot \frac{C}{D} &= (AB^{-1})(CD^{-1})\\
+			&=(AC)(B^{-1}D^{-1})\\
+			&=(AC)(BD)^{-1}\\
+			&=\frac{AC}{BD}
+		\end{align*}
+	\end{proof}
+
+	\begin{theorem}
+		\label{TeoDivF}
+		Sean $A, \ B, \ C, \ D$ expresiones polinomiales de una o varias variables tenemos la siguiente proposición: 
+		
+		$$\frac{A}{B}\div \frac{C}{D} = \frac{A}{B} \cdot \frac{D}{C} = \frac{AD}{BC} \hspace{5mm} \big| \hspace{5mm} B, C, D \neq 0$$
+	\end{theorem}
+	
+	\begin{proof}
+		\begin{align*}
+			\frac{A}{B}\div \frac{C}{D} &= \frac{AD}{BC}\\
+			&=(AB^{-1})\div(CD^{-1})\\
+			&=(AB^{-1})\cdot \left((CD^{-1})\right)^{-1}\\
+			&=(AB^{-1})\cdot \big(C^{-1}(D^{-1})^{-1}\big)\\
+			&=(AB^{-1})(C^{-1}D)\\
+			&=(AD)(B^{-1}C^{-1})\\
+			&=(AD)(BC)^{-1}\\
+			&=\frac{AD}{BC}
+		\end{align*}
+	\end{proof}
+
+	Con los teoremas \ref{TeoMultF}, \ref{TeoDivF} y \ref{TeoSimpF} podemos multiplicar y dividir fracciones y simplificar nuestros resultados.
 	
 	%-------------------------------------
 	\chapter{Ecuaciones Lineales}
