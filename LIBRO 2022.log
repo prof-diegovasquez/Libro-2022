@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.6)  17 SEP 2022 12:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.6)  17 SEP 2022 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,6 +220,30 @@ Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip67
 \JustifyingParindent=\skip68
 )
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks30
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+cfg))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\
 tikz.sty
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf
@@ -228,9 +252,9 @@ tikz.sty
 cs.sty
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
 futil-common.tex
-\pgfutil@everybye=\toks30
-\pgfutil@tempdima=\dimen151
-\pgfutil@tempdimb=\dimen152
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen159
+\pgfutil@tempdimb=\dimen160
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
 futil-common-lists.tex))
@@ -256,33 +280,33 @@ Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
 fkeys.code.tex
-\pgfkeys@pathtoks=\toks31
-\pgfkeys@temptoks=\toks32
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
 fkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks33
+\pgfkeys@tmptoks=\toks34
 ))
-\pgf@x=\dimen153
-\pgf@y=\dimen154
-\pgf@xa=\dimen155
-\pgf@ya=\dimen156
-\pgf@xb=\dimen157
-\pgf@yb=\dimen158
-\pgf@xc=\dimen159
-\pgf@yc=\dimen160
-\pgf@xd=\dimen161
-\pgf@yd=\dimen162
+\pgf@x=\dimen161
+\pgf@y=\dimen162
+\pgf@xa=\dimen163
+\pgf@ya=\dimen164
+\pgf@xb=\dimen165
+\pgf@yb=\dimen166
+\pgf@xc=\dimen167
+\pgf@yc=\dimen168
+\pgf@xd=\dimen169
+\pgf@yd=\dimen170
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count269
-\c@pgf@countb=\count270
-\c@pgf@countc=\count271
-\c@pgf@countd=\count272
-\t@pgf@toka=\toks34
-\t@pgf@tokb=\toks35
-\t@pgf@tokc=\toks36
-\pgf@sys@id@count=\count273
+\c@pgf@counta=\count272
+\c@pgf@countb=\count273
+\c@pgf@countc=\count274
+\c@pgf@countd=\count275
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count276
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
 pgf.cfg
@@ -301,8 +325,8 @@ File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
 pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count274
-\pgfsyssoftpath@bigbuffer@items=\count275
+\pgfsyssoftpath@smallbuffer@items=\count277
+\pgfsyssoftpath@bigbuffer@items=\count278
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
 pgfsysprotocol.code.tex
@@ -320,12 +344,12 @@ calc.code.tex
 util.code.tex)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
 parser.code.tex
-\pgfmath@dimen=\dimen163
-\pgfmath@count=\count276
+\pgfmath@dimen=\dimen171
+\pgfmath@count=\count279
 \pgfmath@box=\box50
-\pgfmath@toks=\toks37
-\pgfmath@stack@operand=\toks38
-\pgfmath@stack@operation=\toks39
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
 functions.code.tex
@@ -347,39 +371,39 @@ functions.misc.code.tex)
 functions.integerarithmetics.code.tex)))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
 float.code.tex
-\c@pgfmathroundto@lastzeros=\count277
+\c@pgfmathroundto@lastzeros=\count280
 ))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.
 code.tex)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@picminx=\dimen164
-\pgf@picmaxx=\dimen165
-\pgf@picminy=\dimen166
-\pgf@picmaxy=\dimen167
-\pgf@pathminx=\dimen168
-\pgf@pathmaxx=\dimen169
-\pgf@pathminy=\dimen170
-\pgf@pathmaxy=\dimen171
-\pgf@xx=\dimen172
-\pgf@xy=\dimen173
-\pgf@yx=\dimen174
-\pgf@yy=\dimen175
-\pgf@zx=\dimen176
-\pgf@zy=\dimen177
+\pgf@picminx=\dimen172
+\pgf@picmaxx=\dimen173
+\pgf@picminy=\dimen174
+\pgf@picmaxy=\dimen175
+\pgf@pathminx=\dimen176
+\pgf@pathmaxx=\dimen177
+\pgf@pathminy=\dimen178
+\pgf@pathmaxy=\dimen179
+\pgf@xx=\dimen180
+\pgf@xy=\dimen181
+\pgf@yx=\dimen182
+\pgf@yy=\dimen183
+\pgf@zx=\dimen184
+\pgf@zy=\dimen185
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@path@lastx=\dimen178
-\pgf@path@lasty=\dimen179
+\pgf@path@lastx=\dimen186
+\pgf@path@lasty=\dimen187
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@shorten@end@additional=\dimen180
-\pgf@shorten@start@additional=\dimen181
+\pgf@shorten@end@additional=\dimen188
+\pgf@shorten@start@additional=\dimen189
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcorescopes.code.tex
@@ -387,19 +411,19 @@ File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfpic=\box51
 \pgf@hbox=\box52
 \pgf@layerbox@main=\box53
-\pgf@picture@serial@count=\count278
+\pgf@picture@serial@count=\count281
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgflinewidth=\dimen182
+\pgflinewidth=\dimen190
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@pt@x=\dimen183
-\pgf@pt@y=\dimen184
-\pgf@pt@temp=\dimen185
+\pgf@pt@x=\dimen191
+\pgf@pt@y=\dimen192
+\pgf@pt@temp=\dimen193
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcorequick.code.tex
@@ -416,14 +440,14 @@ File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfarrowsep=\dimen186
+\pgfarrowsep=\dimen194
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@max=\dimen187
-\pgf@sys@shading@range@num=\count279
-\pgf@shadingcount=\count280
+\pgf@max=\dimen195
+\pgf@sys@shading@range@num=\count282
+\pgf@shadingcount=\count283
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcoreimage.code.tex
@@ -462,8 +486,8 @@ File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\
 pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@nodesepstart=\dimen188
-\pgf@nodesepend=\dimen189
+\pgf@nodesepstart=\dimen196
+\pgf@nodesepend=\dimen197
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\
 pgfcomp-version-1-18.sty
@@ -485,10 +509,10 @@ Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
 .code.tex)
-\pgffor@iter=\dimen190
-\pgffor@skip=\dimen191
-\pgffor@stack=\toks40
-\pgffor@toks=\toks41
+\pgffor@iter=\dimen198
+\pgffor@skip=\dimen199
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
 ))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlaye
 r/tikz\tikz.code.tex
@@ -497,34 +521,34 @@ Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pg
 flibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count281
-\pgfplotmarksize=\dimen192
+\pgf@plot@mark@count=\count284
+\pgfplotmarksize=\dimen256
 )
-\tikz@lastx=\dimen193
-\tikz@lasty=\dimen194
-\tikz@lastxsaved=\dimen195
-\tikz@lastysaved=\dimen196
-\tikz@lastmovetox=\dimen197
-\tikz@lastmovetoy=\dimen198
-\tikzleveldistance=\dimen199
-\tikzsiblingdistance=\dimen256
+\tikz@lastx=\dimen257
+\tikz@lasty=\dimen258
+\tikz@lastxsaved=\dimen259
+\tikz@lastysaved=\dimen260
+\tikz@lastmovetox=\dimen261
+\tikz@lastmovetoy=\dimen262
+\tikzleveldistance=\dimen263
+\tikzsiblingdistance=\dimen264
 \tikz@figbox=\box56
 \tikz@figbox@bg=\box57
 \tikz@tempbox=\box58
 \tikz@tempbox@bg=\box59
-\tikztreelevel=\count282
-\tikznumberofchildren=\count283
-\tikznumberofcurrentchild=\count284
-\tikz@fig@count=\count285
+\tikztreelevel=\count285
+\tikznumberofchildren=\count286
+\tikznumberofcurrentchild=\count287
+\tikz@fig@count=\count288
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfm
 odulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count286
-\pgfmatrixcurrentcolumn=\count287
-\pgf@matrix@numberofcolumns=\count288
+\pgfmatrixcurrentrow=\count289
+\pgfmatrixcurrentcolumn=\count290
+\pgf@matrix@numberofcolumns=\count291
 )
-\tikz@expandcount=\count289
+\tikz@expandcount=\count292
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlaye
 r/tikz/libraries\tikzlibrarytopaths.code.tex
@@ -537,46 +561,46 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTright=\skip70
 \LTpre=\skip71
 \LTpost=\skip72
-\LTchunksize=\count290
-\LTcapwidth=\dimen257
+\LTchunksize=\count293
+\LTcapwidth=\dimen265
 \LT@head=\box60
 \LT@firsthead=\box61
 \LT@foot=\box62
 \LT@lastfoot=\box63
-\LT@cols=\count291
-\LT@rows=\count292
-\c@LT@tables=\count293
-\c@LT@chunks=\count294
-\LT@p@ftn=\toks42
+\LT@cols=\count294
+\LT@rows=\count295
+\c@LT@tables=\count296
+\c@LT@chunks=\count297
+\LT@p@ftn=\toks43
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count295
-\float@exts=\toks43
+\c@float@type=\count298
+\float@exts=\toks44
 \float@box=\box64
-\@float@everytoks=\toks44
+\@float@everytoks=\toks45
 \@floatcapt=\box65
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multic
 ol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count296
+\c@tracingmulticols=\count299
 \mult@box=\box66
-\multicol@leftmargin=\dimen258
-\c@unbalance=\count297
-\c@collectmore=\count298
-\doublecol@number=\count299
-\multicoltolerance=\count300
-\multicolpretolerance=\count301
-\full@width=\dimen259
-\page@free=\dimen260
-\premulticols=\dimen261
-\postmulticols=\dimen262
+\multicol@leftmargin=\dimen266
+\c@unbalance=\count300
+\c@collectmore=\count301
+\doublecol@number=\count302
+\multicoltolerance=\count303
+\multicolpretolerance=\count304
+\full@width=\dimen267
+\page@free=\dimen268
+\premulticols=\dimen269
+\postmulticols=\dimen270
 \multicolsep=\skip73
 \multicolbaselineskip=\skip74
 \partial@page=\box67
 \last@line=\box68
-\maxbalancingoverflow=\dimen263
+\maxbalancingoverflow=\dimen271
 \mult@rightbox=\box69
 \mult@grightbox=\box70
 \mult@gfirstbox=\box71
@@ -618,15 +642,15 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box107
 \@tempa=\box108
 \@tempa=\box109
-\c@minrows=\count302
-\c@columnbadness=\count303
-\c@finalcolumnbadness=\count304
-\last@try=\dimen264
-\multicolovershoot=\dimen265
-\multicolundershoot=\dimen266
+\c@minrows=\count305
+\c@columnbadness=\count306
+\c@finalcolumnbadness=\count307
+\last@try=\dimen272
+\multicolovershoot=\dimen273
+\multicolundershoot=\dimen274
 \mult@nat@firstbox=\box110
 \colbreak@box=\box111
-\mc@col@check@num=\count305
+\mc@col@check@num=\count308
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.
 sty
@@ -638,37 +662,37 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.s
 ty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count306
-\calc@Bcount=\count307
-\calc@Adimen=\dimen267
-\calc@Bdimen=\dimen268
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen275
+\calc@Bdimen=\dimen276
 \calc@Askip=\skip75
 \calc@Bskip=\skip76
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count308
+\calc@Ccount=\count311
 \calc@Cskip=\skip77
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.st
 y
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen269
-\ESO@tempdimb=\dimen270
+\ESO@tempdima=\dimen277
+\ESO@tempdimb=\dimen278
 )
-\AM@pagewidth=\dimen271
-\AM@pageheight=\dimen272
-\AM@fboxrule=\dimen273
+\AM@pagewidth=\dimen279
+\AM@pageheight=\dimen280
+\AM@fboxrule=\dimen281
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.
 def
 File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count309
+\pdfpages@includegraphics@status=\count312
 \AM@pagebox=\box112
-\AM@global@opts=\toks45
-\AM@pagecnt=\count310
-\AM@toc@title=\toks46
-\c@AM@survey=\count311
+\AM@global@opts=\toks46
+\AM@pagecnt=\count313
+\AM@toc@title=\toks47
+\c@AM@survey=\count314
 \AM@templatesizebox=\box113
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbo
@@ -678,8 +702,8 @@ Package: tcolorbox 2014/05/28 version 3.05 text color boxes
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\verbat
 im.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks47
-\verbatim@line=\toks48
+\every@verbatim=\toks48
+\verbatim@line=\toks49
 \verbatim@in@stream=\read4
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.st
@@ -693,14 +717,14 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.
 sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count312
+\etb@tempcnta=\count315
 )
 \tcb@titlebox=\box114
 \tcb@upperbox=\box115
 \tcb@lowerbox=\box116
 \tcb@phantombox=\box117
-\c@tcbbreakpart=\count313
-\c@tcblayer=\count314
+\c@tcbbreakpart=\count316
+\c@tcblayer=\count317
 \tcb@temp=\box118
 \tcb@temp=\box119
 \tcb@temp=\box120
@@ -733,10 +757,10 @@ Library (tcolorbox): 'tcbtheorems.code.tex' version '3.05'
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitti
 ng.code.tex
 Library (tcolorbox): 'tcbfitting.code.tex' version '3.05'
-\tcbfitdim=\dimen274
-\tcb@lowerfitdim=\dimen275
-\tcb@upperfitdim=\dimen276
-\tcb@cur@hbadness=\count315
+\tcbfitdim=\dimen282
+\tcb@lowerfitdim=\dimen283
+\tcb@upperfitdim=\dimen284
+\tcb@cur@hbadness=\count318
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbxpars
 e.code.tex
@@ -750,7 +774,7 @@ Package: expl3 2021-02-18 L3 programming layer (loader)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
 d-pdftex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count316
+\l__color_backend_stack_int=\count319
 \l__pdf_internal_box=\box125
 ))
 Package: xparse 2020-10-27 L3 Experimental document command parser
@@ -767,24 +791,24 @@ Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.
 sty
-\lst@mode=\count317
+\lst@mode=\count320
 \lst@gtempboxa=\box126
-\lst@token=\toks49
-\lst@length=\count318
-\lst@currlwidth=\dimen277
-\lst@column=\count319
-\lst@pos=\count320
-\lst@lostspace=\dimen278
-\lst@width=\dimen279
-\lst@newlines=\count321
-\lst@lineno=\count322
-\lst@maxwidth=\dimen280
+\lst@token=\toks50
+\lst@length=\count321
+\lst@currlwidth=\dimen285
+\lst@column=\count322
+\lst@pos=\count323
+\lst@lostspace=\dimen286
+\lst@width=\dimen287
+\lst@newlines=\count324
+\lst@lineno=\count325
+\lst@maxwidth=\dimen288
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.s
 ty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count323
-\lst@skipnumbers=\count324
+\c@lstnumber=\count326
+\lst@skipnumbers=\count327
 \lst@framebox=\box127
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.
@@ -801,9 +825,6 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwar
 err.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.
 sty
@@ -856,10 +877,10 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 tex
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils
 .tex
-\XKV@toks=\toks50
-\XKV@tempa@toks=\toks51
+\XKV@toks=\toks51
+\XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count325
+\XKV@depth=\count328
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
@@ -900,10 +921,10 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.
 sty
 Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
-\col@sep=\dimen281
+\col@sep=\dimen289
 \ar@mcellbox=\box128
-\extrarowheight=\dimen282
-\NC@list=\toks52
+\extrarowheight=\dimen290
+\NC@list=\toks53
 \extratabsurround=\skip85
 \backup@length=\skip86
 \ar@cellbox=\box129
@@ -936,9 +957,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 s.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen283
-\Hy@linkcounter=\count326
-\Hy@pagecounter=\count327
+\@linkdim=\dimen291
+\Hy@linkcounter=\count329
+\Hy@pagecounter=\count330
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.de
 f
@@ -959,7 +980,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count328
+\Hy@SavedSpaceFactor=\count331
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
@@ -973,13 +994,13 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count329
+\c@Hy@tempcnt=\count332
  (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen284
+\XeTeXLinkMargin=\dimen292
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.st
 y
@@ -990,9 +1011,9 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count330
-\Field@Width=\dimen285
-\Fld@charsize=\dimen286
+\Fld@menulength=\count333
+\Field@Width=\dimen293
+\Fld@charsize=\dimen294
 Package hyperref Info: Hyper figures OFF on input line 6075.
 Package hyperref Info: Link nesting OFF on input line 6080.
 Package hyperref Info: Hyper index ON on input line 6083.
@@ -1009,9 +1030,9 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count331
-\c@Item=\count332
-\c@Hfootnote=\count333
+\Hy@abspage=\count334
+\c@Item=\count335
+\c@Hfootnote=\count336
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -1025,8 +1046,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count334
-\c@bookmark@seq@number=\count335
+\Fld@listcount=\count337
+\c@bookmark@seq@number=\count338
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rer
 unfilecheck.sty
@@ -1047,27 +1068,27 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-\c@theorem=\count336
-\c@acknowledgement=\count337
-\c@algorithm=\count338
-\c@axiom=\count339
-\c@case=\count340
-\c@claim=\count341
-\c@conclusion=\count342
-\c@condition=\count343
-\c@conjecture=\count344
-\c@corollary=\count345
-\c@criterion=\count346
-\c@definition=\count347
-\c@example=\count348
-\c@exercise=\count349
-\c@lemma=\count350
-\c@notation=\count351
-\c@problem=\count352
-\c@proposition=\count353
-\c@remark=\count354
-\c@solution=\count355
-\c@summary=\count356
+\c@theorem=\count339
+\c@acknowledgement=\count340
+\c@algorithm=\count341
+\c@axiom=\count342
+\c@case=\count343
+\c@claim=\count344
+\c@conclusion=\count345
+\c@condition=\count346
+\c@conjecture=\count347
+\c@corollary=\count348
+\c@criterion=\count349
+\c@definition=\count350
+\c@example=\count351
+\c@exercise=\count352
+\c@lemma=\count353
+\c@notation=\count354
+\c@problem=\count355
+\c@proposition=\count356
+\c@remark=\count357
+\c@solution=\count358
+\c@summary=\count359
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
 n input line 61.
 
@@ -1113,17 +1134,17 @@ LaTeX Info: Redefining \% on input line 61.
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
 df.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count357
-\scratchdimen=\dimen287
+\scratchcounter=\count360
+\scratchdimen=\dimen295
 \scratchbox=\box130
-\nofMPsegments=\count358
-\nofMParguments=\count359
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count360
-\MPscratchDim=\dimen288
-\MPnumerator=\count361
-\makeMPintoPDFobject=\count362
-\everyMPtoPDFconversion=\toks54
+\nofMPsegments=\count361
+\nofMParguments=\count362
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count363
+\MPscratchDim=\dimen296
+\MPnumerator=\count364
+\makeMPintoPDFobject=\count365
+\everyMPtoPDFconversion=\toks55
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty
@@ -1137,6 +1158,41 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 61.
 
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=652.70622pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-31.2056pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=69.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscap
 e.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -1147,9 +1203,9 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-\c@lstlisting=\count363
-\c@mv@tabular=\count364
-\c@mv@boldtabular=\count365
+\c@lstlisting=\count366
+\c@mv@tabular=\count367
+\c@mv@boldtabular=\count368
 Package hyperref Info: Link coloring ON on input line 61.
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.s
@@ -1164,7 +1220,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count366
+\c@section@level=\count369
 )
 LaTeX Info: Redefining \ref on input line 61.
 LaTeX Info: Redefining \pageref on input line 61.
@@ -1287,160 +1343,88 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 90--90
 [][][][][][][][][]  
  []
 
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.6pt on input line 123.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 123.
 [2
 
 ]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 7.6pt on input line 137.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 137.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 7.6pt on input line 138.
+(Font)              scaled to size 7.6pt on input line 152.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 6.0pt on input line 138.
-LaTeX Info: Redefining \. on input line 151.
-LaTeX Info: Redefining \% on input line 151.
+(Font)              scaled to size 6.0pt on input line 152.
+LaTeX Info: Redefining \. on input line 165.
+LaTeX Info: Redefining \% on input line 165.
  [3]
-Overfull \hbox (2.71777pt too wide) detected at line 178
-[]
- []
-
-LaTeX Info: Redefining \. on input line 178.
-LaTeX Info: Redefining \% on input line 178.
-[4]
-LaTeX Info: Redefining \. on input line 217.
-LaTeX Info: Redefining \% on input line 217.
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
+ [4]
+LaTeX Info: Redefining \. on input line 238.
+LaTeX Info: Redefining \% on input line 238.
  [5]
-LaTeX Info: Redefining \. on input line 243.
-LaTeX Info: Redefining \% on input line 243.
+LaTeX Info: Redefining \. on input line 279.
+LaTeX Info: Redefining \% on input line 279.
  [6]
+LaTeX Info: Redefining \. on input line 283.
+LaTeX Info: Redefining \% on input line 283.
+ [7]
 Cap\'{\i }tulo 2.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 243--243
-[][][][][][][][][]  
- []
-
-[7
-
-]
-Cap\'{\i }tulo 3.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 246--246
+Overfull \hbox (10.0pt too wide) in paragraph at lines 283--283
 [][][][][][][][][]  
  []
 
 [8
 
-] [9
+]
+Cap\'{\i }tulo 3.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 286--286
+[][][][][][][][][]  
+ []
+
+[9
+
+] [10
 
 ]
 Cap\'{\i }tulo 4.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 249--249
+Overfull \hbox (10.0pt too wide) in paragraph at lines 289--289
 [][][][][][][][][]  
  []
 
 LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 
-251.
+291.
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ufplmbb.fd
 File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-) [10
+) [11
 
 ]
-LaTeX Info: Redefining \. on input line 294.
-LaTeX Info: Redefining \% on input line 294.
- [11]
-LaTeX Info: Redefining \. on input line 302.
-LaTeX Info: Redefining \% on input line 302.
- [12]
-LaTeX Info: Redefining \. on input line 319.
-LaTeX Info: Redefining \% on input line 319.
- [13]
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
-
- []
-
 LaTeX Info: Redefining \. on input line 342.
 LaTeX Info: Redefining \% on input line 342.
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
-
+ [12]
+Overfull \hbox (4.55899pt too wide) in paragraph at lines 342--342
+\T1/LinuxBiolinumT-TLF/m/n/10 Ésta can-ti-dad es de-fi-ni-da co-mo: \T1/LinuxBi
+olinumT-TLF/m/it/10 Uni-dad Ima-gi-na-ria \T1/LinuxBiolinumT-TLF/m/n/10 y la de
+-no-mi-na-re-mos del si-guien-te mo-do: $[] \OT1/zplm/m/n/10 =
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
-
- []
-
-LaTeX Info: Redefining \. on input line 363.
-LaTeX Info: Redefining \% on input line 363.
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
-
- []
-
-
+LaTeX Info: Redefining \. on input line 359.
+LaTeX Info: Redefining \% on input line 359.
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 372--373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
 
  []
 
@@ -1449,109 +1433,172 @@ Underfull \hbox (badness 10000) in paragraph at lines 384--385
 
  []
 
-LaTeX Info: Redefining \. on input line 388.
-LaTeX Info: Redefining \% on input line 388.
-[16]
+LaTeX Info: Redefining \. on input line 386.
+LaTeX Info: Redefining \% on input line 386.
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--414
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
 
  []
 
-LaTeX Info: Redefining \. on input line 433.
-LaTeX Info: Redefining \% on input line 433.
-[17]
-LaTeX Info: Redefining \. on input line 450.
-LaTeX Info: Redefining \% on input line 450.
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
+
+ []
+
+LaTeX Info: Redefining \. on input line 414.
+LaTeX Info: Redefining \% on input line 414.
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--454
+
+ []
+
+LaTeX Info: Redefining \. on input line 461.
+LaTeX Info: Redefining \% on input line 461.
+[16]
+LaTeX Info: Redefining \. on input line 482.
+LaTeX Info: Redefining \% on input line 482.
+ [17]
+LaTeX Info: Redefining \. on input line 492.
+LaTeX Info: Redefining \% on input line 492.
  [18]
-LaTeX Info: Redefining \. on input line 452.
-LaTeX Info: Redefining \% on input line 452.
- [19]
 Cap\'{\i }tulo 5.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 452--452
+Overfull \hbox (10.0pt too wide) in paragraph at lines 492--492
+[][][][][][][][][]  
+ []
+
+[19
+
+]
+Cap\'{\i }tulo 6.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 494--494
 [][][][][][][][][]  
  []
 
 [20
 
 ]
-Cap\'{\i }tulo 6.
+Cap\'{\i }tulo 7.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 454--454
+Overfull \hbox (10.0pt too wide) in paragraph at lines 496--496
 [][][][][][][][][]  
  []
 
 [21
 
-]
-Cap\'{\i }tulo 7.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 456--456
-[][][][][][][][][]  
- []
-
-[22
-
-] [23
+] [22
 
 ]
 Cap\'{\i }tulo 8.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 459--459
+Overfull \hbox (10.0pt too wide) in paragraph at lines 499--499
 [][][][][][][][][]  
  []
 
-
-Overfull \hbox (11.24019pt too wide) in paragraph at lines 470--471
-[]\T1/LinuxBiolinumT-TLF/m/n/10 Vamos a to-mar el co-efi-cien-te $[]$ y va-mos 
-a com-ple-tar cua-dra-dos $[]$
- []
-
-[24
+[23
 
 ]
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 491.
+(Font)              scaled to size 8.0pt on input line 531.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 491.
+(Font)              scaled to size 8.33606pt on input line 531.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 491.
-LaTeX Info: Redefining \. on input line 500.
-LaTeX Info: Redefining \% on input line 500.
- [25]
-Underfull \hbox (badness 10000) in paragraph at lines 504--505
+(Font)              scaled to size 8.33606pt on input line 531.
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--509
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
+Underfull \hbox (badness 10000) in paragraph at lines 550--551
+
+ []
+
+LaTeX Info: Redefining \. on input line 552.
+LaTeX Info: Redefining \% on input line 552.
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--513
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 514--515
-
- []
-
-LaTeX Info: Redefining \. on input line 527.
-LaTeX Info: Redefining \% on input line 527.
-[26]
 LaTeX Font Info:    Trying to load font information for TS1+LinuxBiolinumT-TLF 
-on input line 530.
+on input line 570.
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts1linux
 biolinumt-tlf.fd
@@ -1559,39 +1606,36 @@ File: TS1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/L
 inuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 530.
-LaTeX Info: Redefining \. on input line 553.
-LaTeX Info: Redefining \% on input line 553.
- [27]
-LaTeX Info: Redefining \. on input line 579.
-LaTeX Info: Redefining \% on input line 579.
- [28]
-LaTeX Info: Redefining \. on input line 581.
-LaTeX Info: Redefining \% on input line 581.
- [29]
+(Font)              scaled to size 10.0pt on input line 570.
+LaTeX Info: Redefining \. on input line 592.
+LaTeX Info: Redefining \% on input line 592.
+ [25]
+LaTeX Info: Redefining \. on input line 621.
+LaTeX Info: Redefining \% on input line 621.
+ [26]
 Cap\'{\i }tulo 9.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 581--581
+Overfull \hbox (10.0pt too wide) in paragraph at lines 621--621
 [][][][][][][][][]  
  []
 
-[30
+[27
 
 ]
 Cap\'{\i }tulo 10.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 583--583
+Overfull \hbox (10.0pt too wide) in paragraph at lines 623--623
 [][][][][][][][][]  
  []
 
-[31
+[28
 
 ] (LIBRO 2022.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `"LIBRO 2022".out' has not changed.
-(rerunfilecheck)             Checksum: B77DCBA67D041BC912A734237C42B384;4840.
+(rerunfilecheck)             Checksum: 60201D6D0065C5E69C0F3837918DAC88;5049.
  )
 (\end occurred inside a group at level 2)
 
@@ -1599,13 +1643,13 @@ Package rerunfilecheck Info: File `"LIBRO 2022".out' has not changed.
 ### semi simple group (level 1) entered at line 34 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27495 strings out of 479307
- 514819 string characters out of 2853964
- 844674 words of memory out of 3000000
- 44275 multiletter control sequences out of 15000+600000
+ 27962 strings out of 479307
+ 521925 string characters out of 2853964
+ 859514 words of memory out of 3000000
+ 44732 multiletter control sequences out of 15000+600000
  535070 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,19n,108p,1101b,2472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 94i,19n,108p,1101b,2506s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
@@ -1631,9 +1675,9 @@ X/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/Windows 10/AppData/
 Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Windows 10/
 AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/Wi
 ndows 10/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on "LIBRO 2022.pdf" (35 pages, 332229 bytes).
+Output written on "LIBRO 2022.pdf" (32 pages, 332079 bytes).
 PDF statistics:
- 437 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 433 PDF objects out of 1000 (max. 8388607)
+ 98 named destinations out of 1000 (max. 500000)
+ 285 words of extra memory for PDF output out of 10000 (max. 10000000)
 

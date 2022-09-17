@@ -4,7 +4,7 @@
 \usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
 \usepackage{graphicx}
 \usepackage{ragged2e}
-%\usepackage[left=3cm,top=2.5cm,right=3cm,bottom=2.5cm]{geometry}
+\usepackage[left=3cm,top=2.5cm,right=3cm,bottom=2.5cm]{geometry}
 \usepackage{tikz}
 \usepackage{longtable}
 \usepackage{float}
@@ -98,6 +98,20 @@
 		
 		$$\frac{A}{B} \hspace{5mm} \big| \hspace{5mm}  B\neq 0$$
 	\end{definition}
+
+	Una fracción algebraica se dice que es \textbf{entera} cuando su denominador es un polinomio constante. Tenemos los siguientes ejemplos: 
+	
+	$$x, \hspace{2.5mm} x+y, \hspace{2.5mm} m-n, \hspace{2.5mm} \frac{1}{2}a+\frac{2}{3}b$$
+	
+	También una fracción se considera entera cuando su denominador igual a $1$. Veamos los ejemplos: 
+	
+	$$a=\frac{a}{1}, \hspace{2.5mm} x+y=\frac{x+y}{1}$$
+	
+	Una fracción algebraica se dice que es \textbf{mixta} cuando consta de una fracción sumada o restada con una fracción entera. Veamos los siguientes ejemplos:
+	
+	$$a+\frac{b}{c}, \hspace{2.5mm} x-\frac{3}{x-a}$$
+	
+	\subsection{Las fracciones y los signos}
 	
 	\section{Propiedades}
 	Vamos a definir propiedades y operaciones con fracciones, cabe mencionar que es importante recordar los métodos de factorización y m.c.m. de expresiones algebraicas. 
@@ -200,7 +214,7 @@
 		\end{multicols}
 	
 	\subsection{Operaciones con Fracciones}
-	
+	\subsubsection{Multiplicación y División}
 	\begin{theorem}
 		\label{TeoMultF}
 		Sean $A, \ B, \ C, \ D$ expresiones polinomiales de una o varias variables tenemos la siguiente proposición: 
@@ -237,7 +251,33 @@
 		\end{align*}
 	\end{proof}
 
-	Con los teoremas \ref{TeoMultF}, \ref{TeoDivF} y \ref{TeoSimpF} podemos multiplicar y dividir fracciones y simplificar nuestros resultados.
+	Con los teoremas \ref{TeoMultF}, \ref{TeoDivF} y \ref{TeoSimpF} podemos multiplicar y dividir fracciones así como simplificar nuestros resultados.
+	
+	\begin{example}
+		Realizar la siguiente operación con fracciones: $$\frac{ab}{c}\cdot\frac{a^2b}{2c}$$
+		\underline{Solución:}
+		\begin{align*}
+			\frac{ab}{c}\cdot\frac{a^2b}{2c} &= \frac{(ab)(a^2b)}{2c}\\
+			&=\fbox{{\color{blue}$\displaystyle{\frac{a^3b^2}{2c^2}}$}}
+		\end{align*}
+	\end{example}
+
+	\begin{example}
+		Realizar la siguiente operación con fracciones: $$\frac{3x-3}{2x+4}\cdot \frac{x^2+4x+4}{x^2-x}$$
+		
+		\underline{Solución:}
+		
+		\begin{align*}
+			\frac{3x-3}{2x+4}\cdot \frac{x^2+4x+4}{x^2-x} &= \frac{(3x-3)(x^2+4x+4)}{(2x+4)(x^2-x)}\\
+			&=\frac{(3x-3)(x+2)^2}{(2x+4)(x^2-x)}\\
+			&=\frac{3(x-1)(x+2)(x+2)}{2(x+2)x(x-1)}\\
+			&=\frac{3(x-1)(x+2)(x+2)}{2x(x+2)(x-1)}\\
+			&=\frac{3(\cancel{x-1})(\cancel{x+2})(x+2)}{2x(\cancel{x+2})(\cancel{x-1})} \hspace{5mm} \big| \hspace{5mm} x\neq1, \ x\neq -2\\
+			&=\frac{3(x+2)}{2x}\\
+			&=\frac{3x+6}{2x}\\
+			&=\fbox{{\color{blue}$\displaystyle{\frac{3x+6}{2x}}$}}
+		\end{align*}
+	\end{example}
 	
 	%-------------------------------------
 	\chapter{Ecuaciones Lineales}
