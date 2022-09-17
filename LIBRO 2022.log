@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.6)  16 SEP 2022 21:41
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.6)  16 SEP 2022 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,15 +11,15 @@ Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
 File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count179
-\c@chapter=\count180
-\c@section=\count181
-\c@subsection=\count182
-\c@subsubsection=\count183
-\c@paragraph=\count184
-\c@subparagraph=\count185
-\c@figure=\count186
-\c@table=\count187
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -29,15 +29,17 @@ Package: babel 2021/01/26 3.53 The Babel package
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
 File: babel.def 2021/01/26 3.53 Babel common definitions
-\babel@savecnt=\count188
+\babel@savecnt=\count184
 \U@D=\dimen139
 \l@babelnohyphens=\language79
 
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.de
+f
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.d
-ef)
+ef))
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count189
+\bbl@dirlevel=\count185
 
 *************************************
 * Local config file bblopts.cfg used
@@ -50,7 +52,7 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 ish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 \es@quottoks=\toks15
-\es@quotdepth=\count190
+\es@quotdepth=\count186
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
@@ -60,8 +62,12 @@ Package babel Info: Making > an active character on input line 707.
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.st
-y
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+)
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks18
 \thm@bodyfont=\toks19
@@ -96,13 +102,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count191
+\inf@bad=\count187
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count192
-\leftroot@=\count193
+\uproot@=\count188
+\leftroot@=\count189
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count194
-\DOTSCASE@=\count195
+\classnum@=\count190
+\DOTSCASE@=\count191
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -111,15 +117,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen142
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count196
-\c@MaxMatrixCols=\count197
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
 \dotsspace@=\muskip16
-\c@parentequation=\count198
-\dspbrk@lvl=\count199
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
 \tag@help=\toks25
-\row@=\count266
-\column@=\count267
-\maxfields@=\count268
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
 \andhelp@=\toks26
 \eqnshift@=\dimen143
 \alignsep@=\dimen144
@@ -154,14 +160,13 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 .cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 225.
 
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdfte
-x.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex
+.def
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -190,7 +195,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: xetex.def on input line 105.
 )
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
@@ -229,9 +234,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count269
-\Gm@cntv=\count270
-\c@Gm@tempcnt=\count271
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
 \Gm@bindingoffset=\dimen151
 \Gm@wd@mp=\dimen152
 \Gm@odd@mp=\dimen153
@@ -242,8 +247,8 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen158
 \Gm@dimlist=\toks30
 
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
-cfg))
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/xelatex/xetexconfig\geom
+etry.cfg))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\
 tikz.sty
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf
@@ -299,34 +304,40 @@ fkeysfiltered.code.tex
 \pgf@yd=\dimen170
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count272
-\c@pgf@countb=\count273
-\c@pgf@countc=\count274
-\c@pgf@countd=\count275
+\c@pgf@counta=\count268
+\c@pgf@countb=\count269
+\c@pgf@countc=\count270
+\c@pgf@countd=\count271
 \t@pgf@toka=\toks35
 \t@pgf@tokb=\toks36
 \t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count276
+\pgf@sys@id@count=\count272
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
 pgf.cfg
 File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
 )
-Driver file for pgf: pgfsys-pdftex.def
+Driver file for pgf: pgfsys-xetex.def
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
-pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+pgfsys-xetex.def
+File: pgfsys-xetex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2020/12/27 v3.1.8b (3.1.8b)
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
 pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)
+\pgfsys@objnum=\count273
 )))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
 pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count277
-\pgfsyssoftpath@bigbuffer@items=\count278
+\pgfsyssoftpath@smallbuffer@items=\count274
+\pgfsyssoftpath@bigbuffer@items=\count275
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
 pgfsysprotocol.code.tex
@@ -345,7 +356,7 @@ util.code.tex)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
 parser.code.tex
 \pgfmath@dimen=\dimen171
-\pgfmath@count=\count279
+\pgfmath@count=\count276
 \pgfmath@box=\box50
 \pgfmath@toks=\toks38
 \pgfmath@stack@operand=\toks39
@@ -371,7 +382,7 @@ functions.misc.code.tex)
 functions.integerarithmetics.code.tex)))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
 float.code.tex
-\c@pgfmathroundto@lastzeros=\count280
+\c@pgfmathroundto@lastzeros=\count277
 ))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.
 code.tex)
@@ -411,7 +422,7 @@ File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfpic=\box51
 \pgf@hbox=\box52
 \pgf@layerbox@main=\box53
-\pgf@picture@serial@count=\count281
+\pgf@picture@serial@count=\count278
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcoregraphicstate.code.tex
@@ -446,8 +457,8 @@ File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 gfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@max=\dimen195
-\pgf@sys@shading@range@num=\count282
-\pgf@shadingcount=\count283
+\pgf@sys@shading@range@num=\count279
+\pgf@shadingcount=\count280
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
 gfcoreimage.code.tex
@@ -521,7 +532,7 @@ Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pg
 flibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count284
+\pgf@plot@mark@count=\count281
 \pgfplotmarksize=\dimen256
 )
 \tikz@lastx=\dimen257
@@ -536,19 +547,19 @@ File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \tikz@figbox@bg=\box57
 \tikz@tempbox=\box58
 \tikz@tempbox@bg=\box59
-\tikztreelevel=\count285
-\tikznumberofchildren=\count286
-\tikznumberofcurrentchild=\count287
-\tikz@fig@count=\count288
+\tikztreelevel=\count282
+\tikznumberofchildren=\count283
+\tikznumberofcurrentchild=\count284
+\tikz@fig@count=\count285
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfm
 odulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count289
-\pgfmatrixcurrentcolumn=\count290
-\pgf@matrix@numberofcolumns=\count291
+\pgfmatrixcurrentrow=\count286
+\pgfmatrixcurrentcolumn=\count287
+\pgf@matrix@numberofcolumns=\count288
 )
-\tikz@expandcount=\count292
+\tikz@expandcount=\count289
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlaye
 r/tikz/libraries\tikzlibrarytopaths.code.tex
@@ -561,21 +572,21 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTright=\skip70
 \LTpre=\skip71
 \LTpost=\skip72
-\LTchunksize=\count293
+\LTchunksize=\count290
 \LTcapwidth=\dimen265
 \LT@head=\box60
 \LT@firsthead=\box61
 \LT@foot=\box62
 \LT@lastfoot=\box63
-\LT@cols=\count294
-\LT@rows=\count295
-\c@LT@tables=\count296
-\c@LT@chunks=\count297
+\LT@cols=\count291
+\LT@rows=\count292
+\c@LT@tables=\count293
+\c@LT@chunks=\count294
 \LT@p@ftn=\toks43
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count298
+\c@float@type=\count295
 \float@exts=\toks44
 \float@box=\box64
 \@float@everytoks=\toks45
@@ -584,14 +595,14 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multic
 ol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count299
+\c@tracingmulticols=\count296
 \mult@box=\box66
 \multicol@leftmargin=\dimen266
-\c@unbalance=\count300
-\c@collectmore=\count301
-\doublecol@number=\count302
-\multicoltolerance=\count303
-\multicolpretolerance=\count304
+\c@unbalance=\count297
+\c@collectmore=\count298
+\doublecol@number=\count299
+\multicoltolerance=\count300
+\multicolpretolerance=\count301
 \full@width=\dimen267
 \page@free=\dimen268
 \premulticols=\dimen269
@@ -642,15 +653,15 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box107
 \@tempa=\box108
 \@tempa=\box109
-\c@minrows=\count305
-\c@columnbadness=\count306
-\c@finalcolumnbadness=\count307
+\c@minrows=\count302
+\c@columnbadness=\count303
+\c@finalcolumnbadness=\count304
 \last@try=\dimen272
 \multicolovershoot=\dimen273
 \multicolundershoot=\dimen274
 \mult@nat@firstbox=\box110
 \colbreak@box=\box111
-\mc@col@check@num=\count308
+\mc@col@check@num=\count305
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.
 sty
@@ -662,15 +673,15 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.s
 ty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count309
-\calc@Bcount=\count310
+\calc@Acount=\count306
+\calc@Bcount=\count307
 \calc@Adimen=\dimen275
 \calc@Bdimen=\dimen276
 \calc@Askip=\skip75
 \calc@Bskip=\skip76
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count311
+\calc@Ccount=\count308
 \calc@Cskip=\skip77
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.st
@@ -683,16 +694,16 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \AM@pageheight=\dimen280
 \AM@fboxrule=\dimen281
 
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.
-def
-File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\ppxetex.d
+ef
+File: ppxetex.def 2021/03/06 v0.5t Pdfpages driver for XeTeX (AM)
 )
-\pdfpages@includegraphics@status=\count312
+\pdfpages@includegraphics@status=\count309
 \AM@pagebox=\box112
 \AM@global@opts=\toks46
-\AM@pagecnt=\count313
+\AM@pagecnt=\count310
 \AM@toc@title=\toks47
-\c@AM@survey=\count314
+\c@AM@survey=\count311
 \AM@templatesizebox=\box113
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbo
@@ -717,14 +728,14 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.
 sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count315
+\etb@tempcnta=\count312
 )
 \tcb@titlebox=\box114
 \tcb@upperbox=\box115
 \tcb@lowerbox=\box116
 \tcb@phantombox=\box117
-\c@tcbbreakpart=\count316
-\c@tcblayer=\count317
+\c@tcbbreakpart=\count313
+\c@tcblayer=\count314
 \tcb@temp=\box118
 \tcb@temp=\box119
 \tcb@temp=\box120
@@ -760,7 +771,7 @@ Library (tcolorbox): 'tcbfitting.code.tex' version '3.05'
 \tcbfitdim=\dimen282
 \tcb@lowerfitdim=\dimen283
 \tcb@upperfitdim=\dimen284
-\tcb@cur@hbadness=\count318
+\tcb@cur@hbadness=\count315
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbxpars
 e.code.tex
@@ -772,10 +783,17 @@ xparse.sty
 Package: expl3 2021-02-18 L3 programming layer (loader) 
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
-d-pdftex.def
-File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count319
+d-xetex.def
+File: l3backend-xetex.def 2021-02-18 L3 backend support: XeTeX
+ ()
+\c__kernel_sys_dvipdfmx_version_int=\count316
+\l__color_backend_stack_int=\count317
+\g__color_backend_stack_int=\count318
+\g__graphics_track_int=\count319
 \l__pdf_internal_box=\box125
+\g__pdf_backend_object_int=\count320
+\g__pdf_backend_annotation_int=\count321
+\g__pdf_backend_link_int=\count322
 ))
 Package: xparse 2020-10-27 L3 Experimental document command parser
 
@@ -791,24 +809,24 @@ Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.
 sty
-\lst@mode=\count320
+\lst@mode=\count323
 \lst@gtempboxa=\box126
 \lst@token=\toks50
-\lst@length=\count321
+\lst@length=\count324
 \lst@currlwidth=\dimen285
-\lst@column=\count322
-\lst@pos=\count323
+\lst@column=\count325
+\lst@pos=\count326
 \lst@lostspace=\dimen286
 \lst@width=\dimen287
-\lst@newlines=\count324
-\lst@lineno=\count325
+\lst@newlines=\count327
+\lst@lineno=\count328
 \lst@maxwidth=\dimen288
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.s
 ty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count326
-\lst@skipnumbers=\count327
+\c@lstnumber=\count329
+\lst@skipnumbers=\count330
 \lst@framebox=\box127
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.
@@ -832,17 +850,14 @@ Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\string
-enc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+Package pdftexcmds Info: \pdfdraftmode not found.
 )
 
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfesc
-ape.sty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)))
+Package listingsutf8 Warning: Package loading is aborted because of missing \pd
+f@unescapehex.
+(listingsutf8)                It is provided by pdfTeX >= 1.30.
+
+)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblisti
 ngs.code.tex
 Library (tcolorbox): 'tcblistings.code.tex' version '3.05'
@@ -855,7 +870,12 @@ Library (tcolorbox): 'tcblistingscore.code.tex' version '3.05'
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 ) (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/libertine\biolinum
 .sty
 Package: biolinum 2020/03/26 (Bob Tennent) Supports Biolinum fonts for all LaTe
@@ -880,28 +900,456 @@ tex
 \XKV@toks=\toks51
 \XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count328
+\XKV@depth=\count331
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+)
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.
+sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-
+xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count332
+\l__fontspec_language_int=\count333
+\l__fontspec_strnum_int=\count334
+\l__fontspec_tmp_int=\count335
+\l__fontspec_tmpa_int=\count336
+\l__fontspec_tmpb_int=\count337
+\l__fontspec_tmpc_int=\count338
+\l__fontspec_em_int=\count339
+\l__fontspec_emdef_int=\count340
+\l__fontspec_strong_int=\count341
+\l__fontspec_strongdef_int=\count342
+\l__fontspec_tmpa_dim=\dimen289
+\l__fontspec_tmpb_dim=\dimen290
+\l__fontspec_tmpc_dim=\dimen291
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.
-sty
-Package: fontaxes 2020/07/21 v1.0e Font selection axes
-LaTeX Info: Redefining \upshape on input line 29.
-LaTeX Info: Redefining \itshape on input line 31.
-LaTeX Info: Redefining \slshape on input line 33.
-LaTeX Info: Redefining \swshape on input line 35.
-LaTeX Info: Redefining \scshape on input line 37.
-LaTeX Info: Redefining \sscshape on input line 39.
-LaTeX Info: Redefining \ulcshape on input line 41.
-LaTeX Info: Redefining \textsw on input line 47.
-LaTeX Info: Redefining \textssc on input line 48.
-LaTeX Info: Redefining \textulc on input line 49.
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.
+cfg)))
+Requested font "[LinBiolinum_R.otf]/OT" at 9.99997pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+Requested font "[LinBiolinum_R.otf]/OT" at 10.00003pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;" at 10.00003p
+t
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;" at 10.00003
+pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RB.otf
+Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;" at 10.00003
+pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RI.otf
+Requested font "[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;" at 10.0000
+3pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RBO.otf
+
+Package fontspec Info: Font family 'LinBiolinum(0)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX
+,Numbers
+(fontspec)             = {Monospaced, },Scale = 1,UprightFont = *_R,ItalicFont
+(fontspec)             = *_RI,BoldFont = *_RB,BoldItalicFont = *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dfl
+t;+tnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dfl
+t;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=df
+lt;+tnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=df
+lt;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=df
+lt;+tnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=df
+lt;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=d
+flt;+tnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=d
+flt;+tnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'LinBiolinum(1)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced, },Scale = 1,UprightFont = *_R,ItalicFont =
+(fontspec)             *_RI,BoldFont = *_RB,BoldItalicFont = *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dfl
+t;+tnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dfl
+t;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=df
+lt;+tnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=df
+lt;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=df
+lt;+tnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=df
+lt;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=d
+flt;+tnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=d
+flt;+tnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'LinBiolinum(2)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced, OldStyle},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dfl
+t;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dfl
+t;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=df
+lt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=df
+lt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=df
+lt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=df
+lt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=d
+flt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=d
+flt;+tnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'LinBiolinum(3)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced},Scale = 1,UprightFont = *_R,ItalicFont =
+(fontspec)             *_RI,BoldFont = *_RB,BoldItalicFont = *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dfl
+t;+tnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dfl
+t;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=df
+lt;+tnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=df
+lt;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=df
+lt;+tnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=df
+lt;+tnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=d
+flt;+tnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=d
+flt;+tnum;+smcp;mapping=tex-text;"
+
+Requested font "[LinBiolinum_K.otf]/OT" at 9.99997pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_K.otf
+Requested font "[LinBiolinum_K.otf]/OT" at 10.00003pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_K.otf
+Requested font "[LinBiolinum_K.otf]/OT:script=latn;language=dflt;" at 10.00003p
+t
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_K.otf
+
+Package fontspec Info: Font family 'LinBiolinum_K(0)' created for font
+(fontspec)             'LinBiolinum_K' with options [Extension =
+(fontspec)             .otf,BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LinBiolinum_K.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+LaTeX Info: Redefining \oldstylenums on input line 247.
+LaTeX Info: Redefining \liningnums on input line 248.
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LinBioli
+num_R.tex)
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LinBioli
+num_K.tex)
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LKey.tex
 ))
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unico
+de-math.sty
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unico
+de-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2
+e\l3keys2e.sty
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count343
+\g__um_fonts_used_int=\count344
+\l__um_primecount_int=\count345
+\g__um_primekern_muskip=\muskip17
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unico
+de-math-table.tex)))
+Requested font "Cambria Math/OT" at 9.99997pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT" at 10.00003pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT:script=math;language=dflt;" at 10.00002pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/B/OT:script=math;language=dflt;" at 10.00002pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+
+Package fontspec Info: Could not resolve font "Cambria Math/B" (it probably
+(fontspec)             doesn't exist).
+
+Requested font "Cambria Math/OT:script=math;language=dflt;" at 10.00003pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+
+Package fontspec Info: Font family 'CambriaMath(0)' created for font 'Cambria
+(fontspec)             Math' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+Requested font "Cambria Math/OT:script=math;language=dflt;" at 10.0pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/B/OT:script=math;language=dflt;" at 10.00002pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+
+Package fontspec Info: Could not resolve font "Cambria Math/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'CambriaMath(1)' created for font 'Cambria
+(fontspec)             Math' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=8.65-},{Size=6.65-8.65,Font=Cambria
+(fontspec)             Math,Style=MathScript},{Size=-6.65,Font=Cambria
+(fontspec)             Math,Style=MathScriptScript}}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <8.65->"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;"<6.65-8.65>"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-6.65>"Cambr
+ia
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/CambriaMath(1)/m/n on input line 20.
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/CambriaMath(1)/b/n on input line 20
+.
+
+Package fontspec Info: Cambria Math scale = 1.0001.
+
+Requested font "Cambria Math/B/OT:script=math;language=dflt;" at 10.00002pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+
+Package fontspec Info: Could not resolve font "Cambria Math/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Cambria Math scale = 1.0001.
+
+
+Package fontspec Info: Cambria Math scale = 1.0001.
+
+
+Package fontspec Info: Cambria Math scale = 1.0001.
+
+
+Package fontspec Info: Font family 'CambriaMath(2)' created for font 'Cambria
+(fontspec)             Math' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=8.65-},{Size=6.65-8.65,Font=Cambria
+(fontspec)             Math,Style=MathScript},{Size=-6.65,Font=Cambria
+(fontspec)             Math,Style=MathScriptScript}},ScaleAgain=1.0001,FontAdju
+stment={\fontdimen
+(fontspec)             8\font =7.56836pt\relax \fontdimen 9\font
+(fontspec)             =5.85938pt\relax \fontdimen 10\font =4.58984pt\relax
+(fontspec)             \fontdimen 11\font =6.68945pt\relax \fontdimen 12\font
+(fontspec)             =5.0293pt\relax \fontdimen 13\font =3.66211pt\relax
+(fontspec)             \fontdimen 14\font =3.66211pt\relax \fontdimen 15\font
+(fontspec)             =3.00293pt\relax \fontdimen 16\font =2.04102pt\relax
+(fontspec)             \fontdimen 17\font =2.04102pt\relax \fontdimen 18\font
+(fontspec)             =2.2461pt\relax \fontdimen 19\font =1.5625pt\relax
+(fontspec)             \fontdimen 22\font =2.85645pt\relax \fontdimen 20\font
+(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.65->s*[1.0001]"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;"<6.65-8.65>s*[1.0001]
+"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-6.65>s*[1.0
+001]"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =7.56836pt\relax \fontdimen 9\font
+(fontspec)             =5.85938pt\relax \fontdimen 10\font =4.58984pt\relax
+(fontspec)             \fontdimen 11\font =6.68945pt\relax \fontdimen 12\font
+(fontspec)             =5.0293pt\relax \fontdimen 13\font =3.66211pt\relax
+(fontspec)             \fontdimen 14\font =3.66211pt\relax \fontdimen 15\font
+(fontspec)             =3.00293pt\relax \fontdimen 16\font =2.04102pt\relax
+(fontspec)             \fontdimen 17\font =2.04102pt\relax \fontdimen 18\font
+(fontspec)             =2.2461pt\relax \fontdimen 19\font =1.5625pt\relax
+(fontspec)             \fontdimen 22\font =2.85645pt\relax \fontdimen 20\font
+(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/CambriaMath(2)/m/n on input line 20
+.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/CambriaMath(2)/b/n on input line 20
+.
+
+Package fontspec Info: Cambria Math scale = 0.9999.
+
+Requested font "Cambria Math/B/OT:script=math;language=dflt;" at 10.00002pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+
+Package fontspec Info: Could not resolve font "Cambria Math/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Cambria Math scale = 0.9999.
+
+
+Package fontspec Info: Cambria Math scale = 0.9999.
+
+
+Package fontspec Info: Cambria Math scale = 0.9999.
+
+
+Package fontspec Info: Font family 'CambriaMath(3)' created for font 'Cambria
+(fontspec)             Math' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=8.65-},{Size=6.65-8.65,Font=Cambria
+(fontspec)             Math,Style=MathScript},{Size=-6.65,Font=Cambria
+(fontspec)             Math,Style=MathScriptScript}},ScaleAgain=0.9999,FontAdju
+stment={\fontdimen
+(fontspec)             8\font =0.64941pt\relax \fontdimen 9\font
+(fontspec)             =0.64941pt\relax \fontdimen 10\font =0.64941pt\relax
+(fontspec)             \fontdimen 11\font =2.4414pt\relax \fontdimen 12\font
+(fontspec)             =6.05469pt\relax \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.65->s*[0.9999]"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;"<6.65-8.65>s*[0.9999]
+"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-6.65>s*[0.9
+999]"Cambria
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.64941pt\relax \fontdimen 9\font
+(fontspec)             =0.64941pt\relax \fontdimen 10\font =0.64941pt\relax
+(fontspec)             \fontdimen 11\font =2.4414pt\relax \fontdimen 12\font
+(fontspec)             =6.05469pt\relax \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 2
+0.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/CambriaMath(3)/m/n on input line 20
+.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 20.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/CambriaMath(3)/b/n on input line 20
+.
+
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.
 sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
@@ -925,6 +1373,10 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 efinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfesc
+ape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.st
 y
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
@@ -941,15 +1393,13 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 s.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen289
-\Hy@linkcounter=\count329
-\Hy@pagecounter=\count330
+\@linkdim=\dimen292
+\Hy@linkcounter=\count346
+\Hy@pagecounter=\count347
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.de
 f
 File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-
 langpatches.def
@@ -964,12 +1414,10 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count331
+\Hy@SavedSpaceFactor=\count348
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Hyper figures OFF on input line 4192.
 Package hyperref Info: Link nesting OFF on input line 4197.
@@ -978,13 +1426,14 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count332
+\c@Hy@tempcnt=\count349
  (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
+\Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen290
+\XeTeXLinkMargin=\dimen293
+Requested font "pzdr" at 0.00002pt
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.st
 y
@@ -995,9 +1444,9 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count333
-\Field@Width=\dimen291
-\Fld@charsize=\dimen292
+\Fld@menulength=\count350
+\Field@Width=\dimen294
+\Fld@charsize=\dimen295
 Package hyperref Info: Hyper figures OFF on input line 6075.
 Package hyperref Info: Link nesting OFF on input line 6080.
 Package hyperref Info: Hyper index ON on input line 6083.
@@ -1014,15 +1463,30 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count334
-\c@Item=\count335
-\c@Hfootnote=\count336
+\Hy@abspage=\count351
+\c@Item=\count352
+\c@Hfootnote=\count353
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
+Package hyperref Info: Driver (autodetected): hxetex.
 
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.d
-ef
-File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.de
+f
+File: hxetex.def 2021-02-10 v7.00j Hyperref driver for XeTeX
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\string
+enc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box128
+\c@Hy@AnnotLevel=\count354
+\HyField@AnnotCount=\count355
+\Fld@listcount=\count356
+\c@bookmark@seq@number=\count357
+
+(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rer
+unfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx
 .sty
@@ -1030,13 +1494,6 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count337
-\c@bookmark@seq@number=\count338
-
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rer
-unfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\un
 iquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
@@ -1046,98 +1503,70 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip85
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 27.
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.
 sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-\c@theorem=\count339
-\c@acknowledgement=\count340
-\c@algorithm=\count341
-\c@axiom=\count342
-\c@case=\count343
-\c@claim=\count344
-\c@conclusion=\count345
-\c@condition=\count346
-\c@conjecture=\count347
-\c@corollary=\count348
-\c@criterion=\count349
-\c@definition=\count350
-\c@example=\count351
-\c@exercise=\count352
-\c@lemma=\count353
-\c@notation=\count354
-\c@problem=\count355
-\c@proposition=\count356
-\c@remark=\count357
-\c@solution=\count358
-\c@summary=\count359
-LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
-n input line 59.
-
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/libertine\t1linuxb
-iolinumt-tlf.fd
-File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
-uxBiolinumT-TLF.
-)
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 59.
+\c@theorem=\count358
+\c@acknowledgement=\count359
+\c@algorithm=\count360
+\c@axiom=\count361
+\c@case=\count362
+\c@claim=\count363
+\c@conclusion=\count364
+\c@condition=\count365
+\c@conjecture=\count366
+\c@corollary=\count367
+\c@criterion=\count368
+\c@definition=\count369
+\c@example=\count370
+\c@exercise=\count371
+\c@lemma=\count372
+\c@notation=\count373
+\c@problem=\count374
+\c@proposition=\count375
+\c@remark=\count376
+\c@solution=\count377
+\c@summary=\count378
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 61.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
+tex-text;" at 10.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
  (LIBRO 2022.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `"LIBRO 2022.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 61.
 
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
-df.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count360
-\scratchdimen=\dimen293
-\scratchbox=\box128
-\nofMPsegments=\count361
-\nofMParguments=\count362
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count363
-\MPscratchDim=\dimen294
-\MPnumerator=\count364
-\makeMPintoPDFobject=\count365
-\everyMPtoPDFconversion=\toks54
-)
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
-pdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-
-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 59.
-
-*geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
@@ -1180,12 +1609,27 @@ Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 y
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
 )
-\c@lstlisting=\count366
-\c@mv@tabular=\count367
-\c@mv@boldtabular=\count368
-Package hyperref Info: Link coloring ON on input line 59.
+\c@lstlisting=\count379
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  TU/CambriaMath(1)/m/n --> TU/lmr/m/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/LinBiolinum(0)/m/n on input line 61
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/LinBiolinum(0)/bx/n on input line 
+61.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 61.
+Package hyperref Info: Link coloring ON on input line 61.
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.s
 ty
@@ -1199,56 +1643,149 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count369
+\c@section@level=\count380
 )
-LaTeX Info: Redefining \ref on input line 59.
-LaTeX Info: Redefining \pageref on input line 59.
-LaTeX Info: Redefining \nameref on input line 59.
+LaTeX Info: Redefining \ref on input line 61.
+LaTeX Info: Redefining \pageref on input line 61.
+LaTeX Info: Redefining \nameref on input line 61.
  (LIBRO 2022.out) (LIBRO 2022.out)
 \@outlinefile=\write5
 \openout5 = `"LIBRO 2022.out"'.
 
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 64.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 64.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 66.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 66.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 24.88pt on input line 68.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 70.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 70.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 10.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RB.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 66.
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 17.28pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RB.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 68.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+smcp;ma
+pping=tex-text;" at 10.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 68.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+smcp;ma
+pping=tex-text;" at 14.4pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
+(Font)              scaled to size 24.88pt on input line 70.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+smcp;ma
+pping=tex-text;" at 24.88pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 72.
+Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 10.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RI.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
 (Font)              scaled to size 14.4pt on input line 72.
- [1
+Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 14.4pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RI.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 74.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
+tex-text;" at 14.4pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+[1
 
 
-{C:/Users/Windows 10/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 79.
+]
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 81.
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 14.4pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RB.otf
  (LIBRO 2022.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/sc' will be
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/sc' will be
 (Font)              scaled to size 10.0pt on input line 2.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+smcp;m
+apping=tex-text;" at 10.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RB.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
+tex-text;" at 12.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 12.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RB.otf
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 7.3pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 6.0pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "cmmi7" at 7.3pt
+Requested font "cmmi6" at 6.0pt
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 5.
+Requested font "Cambria Math/OT:script=math;language=dflt;" at 10.00107pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 7.30078pt on input line 5.
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 7.30078p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 5.
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 6.00064p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 5.
+Requested font "Cambria Math/OT:script=math;language=dflt;" at 9.99893pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 7.29921pt on input line 5.
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 7.29921p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 5.
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 5.99936p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+Requested font "msam10" at 10.0pt
+Requested font "msam7" at 7.3pt
+Requested font "msam7" at 6.0pt
 LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Requested font "msbm10" at 10.0pt
+Requested font "msbm7" at 7.3pt
+Requested font "msbm7" at 6.0pt
+
 [1
 
 
@@ -1256,60 +1793,112 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write6
 \openout6 = `"LIBRO 2022.toc"'.
 
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sl' in size <10> not av
-ailable
-(Font)              Font shape `T1/LinuxBiolinumT-TLF/m/it' tried instead on in
-put line 81.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 81.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sl' in size <10> not availa
+ble
+(Font)              Font shape `TU/LinBiolinum(0)/m/it' tried instead on input 
+line 83.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 83.
  [2] [3
 
 ]
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 87.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 87.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 87.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 89.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
+tex-text;" at 20.74pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 89.
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 20.74pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RB.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
+(Font)              scaled to size 24.88pt on input line 89.
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 24.88pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RB.otf
  [3
 
 
 ]
-Cap\'{\i }tulo 1.
-LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 8
-8.
+Capítulo 1.
+LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 9
+0.
 (C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pzc.fd
 File: ot1pzc.fd 2020/03/25 font definitions for OT1/pzc.
 )
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
-(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 88.
+(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 90.
+Requested font "pzcmi7t" at 76.0pt
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 88--88
+Overfull \hbox (10.0pt too wide) in paragraph at lines 90--90
 [][][][][][][][][]  
  []
 
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 123.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 123.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
+(Font)              scaled to size 7.3pt on input line 125.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
+tex-text;" at 7.3pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 125.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
+tex-text;" at 6.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 5.10997p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 3.65pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "cmmi5" at 5.10997pt
+Requested font "cmmi5" at 3.65pt
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 5.1105pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 3.65038p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 5.10942p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 3.6496pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "msam5" at 5.10997pt
+Requested font "msam5" at 3.65pt
+Requested font "msbm5" at 5.10997pt
+Requested font "msbm5" at 3.65pt
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 5.0pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 5.00053p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=1;" at 4.99947p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "msam5" at 5.0pt
+Requested font "msbm5" at 5.0pt
 [4
 
 ]
-LaTeX Info: Redefining \. on input line 157.
-LaTeX Info: Redefining \% on input line 157.
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
  [5]
-Cap\'{\i }tulo 2.
+Capítulo 2.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 157--157
+Overfull \hbox (10.0pt too wide) in paragraph at lines 159--159
 [][][][][][][][][]  
  []
 
 [6
 
 ]
-Cap\'{\i }tulo 3.
+Capítulo 3.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 160--160
+Overfull \hbox (10.0pt too wide) in paragraph at lines 162--162
 [][][][][][][][][]  
  []
 
@@ -1318,38 +1907,33 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 160--160
 ] [8
 
 ]
-Cap\'{\i }tulo 4.
+Capítulo 4.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 163--163
+Overfull \hbox (10.0pt too wide) in paragraph at lines 165--165
 [][][][][][][][][]  
  []
 
 [9
 
 ]
-LaTeX Info: Redefining \. on input line 216.
-LaTeX Info: Redefining \% on input line 216.
+LaTeX Info: Redefining \. on input line 218.
+LaTeX Info: Redefining \% on input line 218.
  [10]
-Overfull \hbox (2.8183pt too wide) in paragraph at lines 216--216
-\T1/LinuxBiolinumT-TLF/m/n/10 �sta can-ti-dad es de-fi-ni-da co-mo: \T1/LinuxBi
-olinumT-TLF/m/it/10 Uni-dad Ima-gi-na-ria \T1/LinuxBiolinumT-TLF/m/n/10 y la de
--no-mi-na-re-mos del si-guien-te mo-do: $[] \OT1/cmr/m/n/10 =
+Overfull \hbox (0.97717pt too wide) in paragraph at lines 218--218
+\TU/LinBiolinum(0)/m/n/10 Ésta cantidad es definida como: \TU/LinBiolinum(0)/m/
+it/10 Unidad Imaginaria \TU/LinBiolinum(0)/m/n/10 y la denominaremos del siguie
+nte modo: $[] []
  []
 
-LaTeX Info: Redefining \. on input line 233.
-LaTeX Info: Redefining \% on input line 233.
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
@@ -1358,20 +1942,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
-LaTeX Info: Redefining \. on input line 260.
-LaTeX Info: Redefining \% on input line 260.
-[12]
+
 Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
-
+LaTeX Info: Redefining \. on input line 261.
+LaTeX Info: Redefining \% on input line 261.
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 262--263
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
 
  []
 
@@ -1411,67 +1995,72 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--281
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 
  []
 
-
+LaTeX Info: Redefining \. on input line 286.
+LaTeX Info: Redefining \% on input line 286.
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 286--287
 
  []
 
-LaTeX Info: Redefining \. on input line 288.
-LaTeX Info: Redefining \% on input line 288.
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--328
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
-LaTeX Info: Redefining \. on input line 335.
-LaTeX Info: Redefining \% on input line 335.
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--330
+
+ []
+
+LaTeX Info: Redefining \. on input line 337.
+LaTeX Info: Redefining \% on input line 337.
 [14]
-LaTeX Info: Redefining \. on input line 356.
-LaTeX Info: Redefining \% on input line 356.
+LaTeX Info: Redefining \. on input line 355.
+LaTeX Info: Redefining \% on input line 355.
  [15]
-LaTeX Info: Redefining \. on input line 366.
-LaTeX Info: Redefining \% on input line 366.
+LaTeX Info: Redefining \. on input line 368.
+LaTeX Info: Redefining \% on input line 368.
  [16]
-Cap\'{\i }tulo 5.
+Capítulo 5.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 366--366
+Overfull \hbox (10.0pt too wide) in paragraph at lines 368--368
 [][][][][][][][][]  
  []
 
 [17
 
 ]
-Cap\'{\i }tulo 6.
+Capítulo 6.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 368--368
+Overfull \hbox (10.0pt too wide) in paragraph at lines 370--370
 [][][][][][][][][]  
  []
 
 [18
 
 ]
-Cap\'{\i }tulo 7.
+Capítulo 7.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 370--370
+Overfull \hbox (10.0pt too wide) in paragraph at lines 372--372
 [][][][][][][][][]  
  []
 
@@ -1480,30 +2069,50 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 370--370
 ] [20
 
 ]
-Cap\'{\i }tulo 8.
+Capítulo 8.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 373--373
+Overfull \hbox (10.0pt too wide) in paragraph at lines 375--375
 [][][][][][][][][]  
  []
 
 [21
 
 ]
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 405.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 405.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 405.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 6.0pt on input line 405.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
+(Font)              scaled to size 7.3pt on input line 407.
+Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 7.3pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RI.otf
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 407.
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
+tex-text;" at 8.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_R.otf
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 8.0pt
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "cmmi8" at 8.0pt
+LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
+(Font)              scaled to size 8.00085pt on input line 407.
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 8.00085p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 407.
+Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 7.99915p
+t
+ -> C:/WINDOWS/Fonts/cambria.ttc
+Requested font "msam10" at 8.0pt
+Requested font "msbm10" at 8.0pt
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
+(Font)              scaled to size 6.0pt on input line 407.
+Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
+=tex-text;" at 6.0pt
+ -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
+ertine/LinBiolinum_RI.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--419
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 422--423
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
 
  []
 
@@ -1517,39 +2126,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 426--427
 
  []
 
-LaTeX Info: Redefining \. on input line 427.
-LaTeX Info: Redefining \% on input line 427.
+LaTeX Info: Redefining \. on input line 428.
+LaTeX Info: Redefining \% on input line 428.
 [22]
 Underfull \hbox (badness 10000) in paragraph at lines 428--429
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+LinuxBiolinumT-TLF 
-on input line 444.
 
-(C:\Users\Windows 10\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts1linux
-biolinumt-tlf.fd
-File: TS1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/L
-inuxBiolinumT-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 444.
-LaTeX Info: Redefining \. on input line 466.
-LaTeX Info: Redefining \% on input line 466.
- [23]
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+
+ []
+
+LaTeX Info: Redefining \. on input line 461.
+LaTeX Info: Redefining \% on input line 461.
+[23]
 LaTeX Info: Redefining \. on input line 495.
 LaTeX Info: Redefining \% on input line 495.
  [24]
-Cap\'{\i }tulo 9.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 495--495
-[][][][][][][][][]  
- []
-
-[25
-
-]
-Cap\'{\i }tulo 10.
+LaTeX Info: Redefining \. on input line 497.
+LaTeX Info: Redefining \% on input line 497.
+ [25]
+Capítulo 9.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 497--497
 [][][][][][][][][]  
@@ -1557,55 +2155,34 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 497--497
 
 [26
 
+]
+Capítulo 10.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 499--499
+[][][][][][][][][]  
+ []
+
+[27
+
 ] (LIBRO 2022.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `"LIBRO 2022".out' has not changed.
-(rerunfilecheck)             Checksum: B77DCBA67D041BC912A734237C42B384;4840.
+(rerunfilecheck)             Checksum: <no file>.
  )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 34 (\begingroup)
-### semi simple group (level 1) entered at line 32 (\begingroup)
+### semi simple group (level 2) entered at line 36 (\begingroup)
+### semi simple group (level 1) entered at line 34 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27711 strings out of 479307
- 518253 string characters out of 2853964
- 854220 words of memory out of 3000000
- 44520 multiletter control sequences out of 15000+600000
- 521856 words of font info for 91 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 94i,19n,108p,1101b,2479s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37519 strings out of 411714
+ 729319 string characters out of 2835450
+ 1193603 words of memory out of 3000000
+ 56939 multiletter control sequences out of 15000+600000
+ 413864 words of font info for 106 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 94i,19n,123p,1078b,2210s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
-, replaced by a fixed one
-
-{C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lb
-tn_afusau.enc}{C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
-s/base/8r.enc}{C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
-s/libertine/lbtn_jtta5h.enc}{C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/
-fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/Windows 10/AppData/Local/Pr
-ograms/MiKTeX/fonts/enc/dvips/libertine/lbtn_omcwp2.enc}<C:/Users/Windows 10/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/U
-sers/Windows 10/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinB
-iolinumTB.pfb><C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/libertine/LinBiolinumTI.pfb><C:/Users/Windows 10/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Windows 10/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Windows 
-10/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/U
-sers/Windows 10/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr7.pfb><C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Windows 10/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Windows 10/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/Wi
-ndows 10/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm
-10.pfb><C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfc
-han/uzcmi8a.pfb>
-Output written on "LIBRO 2022.pdf" (28 pages, 320904 bytes).
-PDF statistics:
- 400 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+Output written on LIBRO 2022.pdf (29 pages).
