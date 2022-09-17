@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.6)  16 SEP 2022 22:48
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.3.6)  17 SEP 2022 06:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1827,7 +1827,7 @@ Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 24.88pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_RB.otf
- [3
+ [1
 
 
 ]
@@ -1846,13 +1846,13 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 91--91
  []
 
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 126.
+(Font)              scaled to size 7.3pt on input line 123.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 7.3pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_R.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 126.
+(Font)              scaled to size 6.0pt on input line 123.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 6.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
@@ -1888,220 +1888,220 @@ t
  -> C:/WINDOWS/Fonts/cambria.ttc
 Requested font "msam5" at 5.0pt
 Requested font "msbm5" at 5.0pt
-[4
+[2
 
 ]
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 7.3pt on input line 143.
+(Font)              scaled to size 7.3pt on input line 138.
 Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 7.3pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_RI.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 143.
+(Font)              scaled to size 6.0pt on input line 138.
 Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 6.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
 ertine/LinBiolinum_RI.otf
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
- [5]
-LaTeX Info: Redefining \. on input line 164.
-LaTeX Info: Redefining \% on input line 164.
- [6]
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+ [3]
+LaTeX Info: Redefining \. on input line 177.
+LaTeX Info: Redefining \% on input line 177.
+ [4]
 Capítulo 2.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 164--164
+Overfull \hbox (10.0pt too wide) in paragraph at lines 177--177
 [][][][][][][][][]  
  []
 
-[7
+[5
 
 ]
 Capítulo 3.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 167--167
+Overfull \hbox (10.0pt too wide) in paragraph at lines 180--180
+[][][][][][][][][]  
+ []
+
+[6
+
+] [7
+
+]
+Capítulo 4.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 183--183
 [][][][][][][][][]  
  []
 
 [8
 
-] [9
-
 ]
-Capítulo 4.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 170--170
-[][][][][][][][][]  
- []
-
-[10
-
-]
-LaTeX Info: Redefining \. on input line 223.
-LaTeX Info: Redefining \% on input line 223.
- [11]
-Overfull \hbox (0.97717pt too wide) in paragraph at lines 223--223
+LaTeX Info: Redefining \. on input line 236.
+LaTeX Info: Redefining \% on input line 236.
+ [9]
+Overfull \hbox (0.97717pt too wide) in paragraph at lines 236--236
 \TU/LinBiolinum(0)/m/n/10 Ésta cantidad es definida como: \TU/LinBiolinum(0)/m/
 it/10 Unidad Imaginaria \TU/LinBiolinum(0)/m/n/10 y la denominaremos del siguie
 nte modo: $[] []
  []
 
-LaTeX Info: Redefining \. on input line 232.
-LaTeX Info: Redefining \% on input line 232.
+LaTeX Info: Redefining \. on input line 245.
+LaTeX Info: Redefining \% on input line 245.
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+LaTeX Info: Redefining \. on input line 279.
+LaTeX Info: Redefining \% on input line 279.
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
 
-LaTeX Info: Redefining \. on input line 266.
-LaTeX Info: Redefining \% on input line 266.
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--348
+
+ []
+
+LaTeX Info: Redefining \. on input line 355.
+LaTeX Info: Redefining \% on input line 355.
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 285--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
-
- []
-
-LaTeX Info: Redefining \. on input line 291.
-LaTeX Info: Redefining \% on input line 291.
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--306
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 329--335
-
- []
-
-LaTeX Info: Redefining \. on input line 342.
-LaTeX Info: Redefining \% on input line 342.
-[15]
-LaTeX Info: Redefining \. on input line 360.
-LaTeX Info: Redefining \% on input line 360.
- [16]
 LaTeX Info: Redefining \. on input line 373.
 LaTeX Info: Redefining \% on input line 373.
- [17]
+ [14]
+LaTeX Info: Redefining \. on input line 386.
+LaTeX Info: Redefining \% on input line 386.
+ [15]
 Capítulo 5.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 373--373
+Overfull \hbox (10.0pt too wide) in paragraph at lines 386--386
+[][][][][][][][][]  
+ []
+
+[16
+
+]
+Capítulo 6.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 388--388
+[][][][][][][][][]  
+ []
+
+[17
+
+]
+Capítulo 7.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 390--390
 [][][][][][][][][]  
  []
 
 [18
 
-]
-Capítulo 6.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 375--375
-[][][][][][][][][]  
- []
-
-[19
+] [19
 
 ]
-Capítulo 7.
+Capítulo 8.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 377--377
+Overfull \hbox (10.0pt too wide) in paragraph at lines 393--393
 [][][][][][][][][]  
  []
 
 [20
 
-] [21
-
-]
-Capítulo 8.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 380--380
-[][][][][][][][][]  
- []
-
-[22
-
 ]
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 412.
+(Font)              scaled to size 8.0pt on input line 425.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;mapping=
 tex-text;" at 8.0pt
  -> C:/Users/Windows 10/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lib
@@ -2110,69 +2110,69 @@ Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 8.0pt
  -> C:/WINDOWS/Fonts/cambria.ttc
 Requested font "cmmi8" at 8.0pt
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 412.
+(Font)              scaled to size 8.00085pt on input line 425.
 Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 8.00085p
 t
  -> C:/WINDOWS/Fonts/cambria.ttc
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 412.
+(Font)              scaled to size 7.99915pt on input line 425.
 Requested font "Cambria Math/OT:script=math;language=dflt;+ssty=0;" at 7.99915p
 t
  -> C:/WINDOWS/Fonts/cambria.ttc
 Requested font "msam10" at 8.0pt
 Requested font "msbm10" at 8.0pt
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--430
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
 
  []
 
-LaTeX Info: Redefining \. on input line 433.
-LaTeX Info: Redefining \% on input line 433.
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 433--434
+LaTeX Info: Redefining \. on input line 446.
+LaTeX Info: Redefining \% on input line 446.
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
 
  []
 
-LaTeX Info: Redefining \. on input line 466.
-LaTeX Info: Redefining \% on input line 466.
-[24]
-LaTeX Info: Redefining \. on input line 500.
-LaTeX Info: Redefining \% on input line 500.
- [25]
-LaTeX Info: Redefining \. on input line 502.
-LaTeX Info: Redefining \% on input line 502.
- [26]
+LaTeX Info: Redefining \. on input line 479.
+LaTeX Info: Redefining \% on input line 479.
+[22]
+LaTeX Info: Redefining \. on input line 513.
+LaTeX Info: Redefining \% on input line 513.
+ [23]
+LaTeX Info: Redefining \. on input line 515.
+LaTeX Info: Redefining \% on input line 515.
+ [24]
 Capítulo 9.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 502--502
+Overfull \hbox (10.0pt too wide) in paragraph at lines 515--515
 [][][][][][][][][]  
  []
 
-[27
+[25
 
 ]
 Capítulo 10.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 504--504
+Overfull \hbox (10.0pt too wide) in paragraph at lines 517--517
 [][][][][][][][][]  
  []
 
-[28
+[26
 
 ] (LIBRO 2022.aux
 LaTeX Info: Redefining \. on input line 25.
@@ -2189,7 +2189,7 @@ Package rerunfilecheck Info: File `"LIBRO 2022".out' has not changed.
 Here is how much of TeX's memory you used:
  37564 strings out of 411714
  729809 string characters out of 2835450
- 1196512 words of memory out of 3000000
+ 1200505 words of memory out of 3000000
  56982 multiletter control sequences out of 15000+600000
  413864 words of font info for 106 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

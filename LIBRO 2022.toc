@@ -1,34 +1,34 @@
 \babel@toc {spanish}{}
 \contentsline {chapter}{Introducción}{\es@scroman {iii}}{chapter*.2}%
-\contentsline {part}{I\hspace {1em}Segundo Bimestre}{3}{part.1}%
-\contentsline {chapter}{\numberline {1}Fracciones Algebraicas}{4}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Introducción}{4}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Propiedades}{4}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Simplificación de Fracciones}{4}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Operaciones con Fracciones}{6}{subsection.1.2.2}%
-\contentsline {chapter}{\numberline {2}Ecuaciones Lineales}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Sistemas de Ecuaciones Lineales}{8}{chapter.3}%
-\contentsline {part}{II\hspace {1em}Tercer Bimestre}{9}{part.2}%
-\contentsline {chapter}{\numberline {4}Ecuaciones Cuadráticas}{10}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Definición}{10}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Conceptos Fundamentales}{10}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Condiciones}{10}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Propiedad del Factor Cero}{12}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Completar Cuadrados}{13}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Ejemplos de Ecuaciones Cuadráticas}{15}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Ecuaciones Resueltas por Factorización}{15}{subsection.4.3.1}%
-\contentsline {section}{\numberline {4.4}Fórmula General de Segundo Grado}{16}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Demostración}{16}{subsection.4.4.1}%
-\contentsline {chapter}{\numberline {5}Inecuaciones}{18}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Funciones}{19}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Funciones Lineales}{20}{chapter.7}%
-\contentsline {part}{III\hspace {1em}Cuarto Bimestre}{21}{part.3}%
-\contentsline {chapter}{\numberline {8}Función Cuadrática}{22}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Definición}{22}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Forma Normal}{22}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Vértice}{23}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}Forma Canónica}{23}{subsection.8.2.2}%
-\contentsline {section}{\numberline {8.3}Dominio y Rango}{24}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Ejemplos}{25}{section.8.4}%
-\contentsline {chapter}{\numberline {9}Ángulos}{27}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Triángulos}{28}{chapter.10}%
+\contentsline {part}{I\hspace {1em}Segundo Bimestre}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Fracciones Algebraicas}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introducción}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Propiedades}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Simplificación de Fracciones}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Operaciones con Fracciones}{4}{subsection.1.2.2}%
+\contentsline {chapter}{\numberline {2}Ecuaciones Lineales}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Sistemas de Ecuaciones Lineales}{6}{chapter.3}%
+\contentsline {part}{II\hspace {1em}Tercer Bimestre}{7}{part.2}%
+\contentsline {chapter}{\numberline {4}Ecuaciones Cuadráticas}{8}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Definición}{8}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Conceptos Fundamentales}{8}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Condiciones}{8}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Propiedad del Factor Cero}{10}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Completar Cuadrados}{11}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Ejemplos de Ecuaciones Cuadráticas}{13}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Ecuaciones Resueltas por Factorización}{13}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.4}Fórmula General de Segundo Grado}{14}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Demostración}{14}{subsection.4.4.1}%
+\contentsline {chapter}{\numberline {5}Inecuaciones}{16}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Funciones}{17}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Funciones Lineales}{18}{chapter.7}%
+\contentsline {part}{III\hspace {1em}Cuarto Bimestre}{19}{part.3}%
+\contentsline {chapter}{\numberline {8}Función Cuadrática}{20}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Definición}{20}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Forma Normal}{20}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Vértice}{21}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Forma Canónica}{21}{subsection.8.2.2}%
+\contentsline {section}{\numberline {8.3}Dominio y Rango}{22}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Ejemplos}{23}{section.8.4}%
+\contentsline {chapter}{\numberline {9}Ángulos}{25}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Triángulos}{26}{chapter.10}%
